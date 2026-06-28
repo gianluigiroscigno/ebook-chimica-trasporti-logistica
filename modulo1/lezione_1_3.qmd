@@ -1,0 +1,463 @@
+---
+title: "Lezione 1.3 — Osservare le trasformazioni fisiche e chimiche"
+subtitle: "Materia, metodo sperimentale e sicurezza nei trasporti"
+author: "Chimica per i Trasporti e la Logistica"
+lang: it
+
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+  pdf:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+
+crossref:
+  fig-title: "Figura"
+---
+
+# Lezione 1.3 — Osservare le trasformazioni fisiche e chimiche
+
+*La materia cambia continuamente. Alcuni cambiamenti modificano soltanto lo stato, la forma o l'aspetto di una sostanza; altri, invece, producono nuove sostanze e trasformano profondamente la natura del materiale. Nel settore dei Trasporti e della Logistica distinguere una trasformazione fisica da una trasformazione chimica non è un esercizio teorico: significa riconoscere fenomeni come evaporazione, combustione, corrosione, dissalazione e degrado dei materiali, prendendo decisioni più sicure e fondate.*
+
+## Collegamenti nel modulo
+
+Questa lezione prosegue il percorso avviato con la definizione di chimica e con l'introduzione delle sue branche. Dopo aver compreso che la chimica studia la materia, la sua composizione e le sue trasformazioni, ora impariamo a osservare e classificare i cambiamenti della materia.
+
+- Lezione precedente: [Lezione 1.2 — La chimica e le sue branche](lezione_1_2.qmd)
+- Lezione successiva: [Lezione 1.4 — Dalle origini della chimica alle prime civiltà](lezione_1_4.qmd)
+- Glossario generale: [Glossario](../glossario.qmd)
+- Esercizi del Modulo 1: [Esercizi del Modulo 1](../esercizi/esercizi_modulo1.qmd)
+
+## Obiettivi di apprendimento
+
+Al termine della lezione sarai in grado di:
+
+- distinguere una trasformazione fisica da una trasformazione chimica;
+- riconoscere gli indizi osservabili di una trasformazione chimica;
+- descrivere esempi di trasformazioni della materia nei Trasporti e nella Logistica;
+- applicare il metodo sperimentale all'osservazione di fenomeni semplici;
+- collegare corrosione, combustione, evaporazione e dissalazione a problemi tecnici reali;
+- comprendere il significato operativo della legge di conservazione della massa.
+
+## Per iniziare
+
+Un tecnico osserva tre situazioni.
+
+Nel primo caso, l'acqua di mare viene riscaldata in un impianto di dissalazione e diventa vapore; poi il vapore condensa e torna acqua liquida. Nel secondo caso, il carburante brucia nel motore di un mezzo, liberando energia e producendo gas di scarico. Nel terzo caso, una parte metallica di uno scafo esposta all'acqua salata mostra una patina rossastra e perde resistenza.
+
+Tutti e tre i casi riguardano la materia che cambia, ma non sono equivalenti. Nel primo caso l'acqua cambia stato, ma rimane acqua. Nel secondo e nel terzo caso, invece, le sostanze iniziali si trasformano in sostanze diverse.
+
+Questa distinzione è uno dei primi strumenti di lavoro della chimica.
+
+::: {.callout-note title="Idea guida"}
+Osservare un cambiamento non basta: bisogna capire se la materia ha cambiato soltanto aspetto oppure se si sono formate nuove sostanze.
+:::
+
+# La materia e i suoi cambiamenti
+
+La **materia** è tutto ciò che possiede massa e occupa uno spazio. Nei trasporti la materia non è un concetto astratto: è aria, carburante, gomma, metallo, acqua marina, vernice protettiva, lubrificante, gas di scarico, materiale composito.
+
+La chimica studia come questa materia si comporta e come si trasforma.
+
+## I quattro pilastri materiali nei Trasporti e nella Logistica
+
+| Pilastro materiale | Ruolo tecnico |
+|---|---|
+| Aria | Comburente nei motori e fluido coinvolto nella portanza aerodinamica |
+| Carburante | Vettore di energia chimica per il movimento |
+| Gomma | Materiale elastico per aderenza, sicurezza e contatto veicolo-suolo |
+| Metallo | Base strutturale di scafi, binari, telai, motori e infrastrutture |
+
+Un tecnico deve saper riconoscere se questi materiali stanno semplicemente cambiando stato o forma, oppure se stanno subendo una trasformazione più profonda.
+
+# Trasformazioni fisiche
+
+Una **trasformazione fisica** è un cambiamento in cui la sostanza modifica stato, forma o aspetto, ma mantiene la stessa composizione chimica.
+
+La sostanza iniziale e la sostanza finale sono la stessa sostanza.
+
+## Caratteristiche principali
+
+Una trasformazione fisica presenta generalmente queste caratteristiche:
+
+- non si formano nuove sostanze;
+- la composizione chimica resta invariata;
+- può cambiare lo stato di aggregazione;
+- spesso il processo è reversibile;
+- le particelle rimangono dello stesso tipo, anche se sono disposte in modo diverso.
+
+## Esempio — Fusione del ghiaccio
+
+Quando il ghiaccio fonde, l'acqua passa dallo stato solido allo stato liquido.
+
+La sostanza rimane acqua.
+
+La trasformazione può essere rappresentata così:
+
+$$
+H_2O_{(s)} \rightarrow H_2O_{(l)}
+$$
+
+La formula rimane la stessa: cambia soltanto lo stato fisico.
+
+## Esempio — Evaporazione e condensazione
+
+Quando l'acqua evapora, passa dallo stato liquido allo stato aeriforme. Quando il vapore condensa, torna liquido.
+
+Anche in questo caso non si formano nuove sostanze.
+
+## Applicazione T&L — Dissalazione a bordo
+
+In alcune imbarcazioni l'acqua dolce può essere ottenuta mediante processi di dissalazione.
+
+Il principio può essere descritto così:
+
+1. l'acqua marina viene riscaldata;
+2. l'acqua evapora;
+3. i sali rimangono separati;
+4. il vapore condensa;
+5. si ottiene acqua dolce.
+
+Il passaggio liquido-vapore-liquido è una trasformazione fisica. La natura dell'acqua non cambia.
+
+::: {.callout-tip title="Regola di riconoscimento"}
+Se cambia lo stato o l'aspetto, ma non si forma una nuova sostanza, la trasformazione è fisica.
+:::
+
+# Trasformazioni chimiche
+
+Una **trasformazione chimica** è un cambiamento in cui le sostanze iniziali si trasformano in sostanze nuove, con composizione e proprietà differenti.
+
+Le sostanze di partenza sono dette **reagenti**.
+
+Le sostanze che si formano sono dette **prodotti**.
+
+## Caratteristiche principali
+
+Una trasformazione chimica presenta spesso questi indizi:
+
+- formazione di nuove sostanze;
+- cambiamento permanente di colore;
+- produzione di gas;
+- emissione di calore o luce;
+- formazione di un solido insolubile;
+- variazione significativa delle proprietà del materiale.
+
+Non tutti gli indizi devono comparire insieme, ma la presenza di nuove sostanze è l'elemento decisivo.
+
+## Esempio — Combustione del carburante
+
+La combustione è una trasformazione chimica.
+
+Un carburante reagisce con l'ossigeno dell'aria e produce nuove sostanze, liberando energia.
+
+Nel caso più semplice della combustione del carbonio:
+
+$$
+C + O_2 \rightarrow CO_2 + energia
+$$
+
+Il carbonio e l'ossigeno sono reagenti; il diossido di carbonio è un prodotto.
+
+## Applicazione T&L — Motori e propulsione
+
+Nei motori, la combustione trasforma l'energia chimica del carburante in energia termica e meccanica. Questa trasformazione è alla base del movimento di molti mezzi di trasporto.
+
+Per un tecnico non basta sapere che un motore "brucia carburante": occorre comprendere che avviene una trasformazione chimica, con consumo di reagenti, formazione di prodotti e produzione di energia.
+
+# Trasformazioni fisiche e chimiche a confronto
+
+| Aspetto | Trasformazione fisica | Trasformazione chimica |
+|---|---|---|
+| Composizione della sostanza | Rimane invariata | Cambia |
+| Nuove sostanze | Non si formano | Si formano |
+| Esempio comune | Fusione del ghiaccio | Combustione |
+| Reversibilità | Spesso reversibile | Spesso difficilmente reversibile |
+| Esempio T&L | Dissalazione | Corrosione dello scafo |
+
+# Caso studio — La corrosione del ferro
+
+La corrosione è uno dei fenomeni più importanti per chi studia chimica nei Trasporti e nella Logistica.
+
+Quando il ferro viene esposto all'acqua e all'ossigeno, può trasformarsi in ossido di ferro, comunemente chiamato ruggine.
+
+La ruggine non è semplicemente ferro "sporco": è una nuova sostanza.
+
+Per questo motivo la corrosione è una trasformazione chimica.
+
+## Perché la corrosione è pericolosa
+
+La corrosione può causare:
+
+- perdita di materiale;
+- indebolimento strutturale;
+- riduzione della sicurezza;
+- aumento dei costi di manutenzione;
+- rischio di guasti.
+
+Nel settore navale il problema è particolarmente importante perché l'acqua di mare contiene sali disciolti che favoriscono i processi elettrochimici.
+
+## Acqua di mare come elettrolita
+
+L'acqua di mare contiene ioni disciolti. Per questo può comportarsi come un **elettrolita**, cioè un mezzo che facilita il passaggio di cariche elettriche.
+
+Questo rende più rapida la corrosione dei metalli esposti.
+
+# Protezione catodica e anodi sacrificali
+
+Per proteggere strutture metalliche immerse in acqua di mare si utilizza spesso la **protezione catodica**.
+
+Un metodo diffuso consiste nell'applicare allo scafo blocchi di metallo più reattivo, come zinco o magnesio. Questi blocchi sono chiamati **anodi sacrificali**.
+
+## Come funzionano
+
+Gli anodi sacrificali si ossidano preferenzialmente.
+
+In pratica, si consumano al posto del metallo strutturale da proteggere.
+
+Questa soluzione permette di:
+
+- rallentare la corrosione dello scafo;
+- programmare la manutenzione;
+- aumentare la sicurezza del mezzo;
+- ridurre il rischio di danni strutturali.
+
+::: {.callout-important title="Caso tecnico"}
+Un anodo sacrificale consumato è un segnale da monitorare. La sua perdita di massa indica che il sistema di protezione sta lavorando, ma anche che dovrà essere sostituito prima che la protezione diventi insufficiente.
+:::
+
+# Legge di Lavoisier e bilanciamento dei carichi
+
+Antoine Lavoisier formulò uno dei principi fondamentali della chimica moderna: la legge di conservazione della massa.
+
+> In una reazione chimica, in un sistema chiuso, la massa totale dei reagenti è uguale alla massa totale dei prodotti.
+
+In forma sintetica:
+
+$$
+massa \; dei \; reagenti = massa \; dei \; prodotti
+$$
+
+## Analogia logistica
+
+Questa legge può essere spiegata con un'analogia logistica.
+
+In un magazzino o su una nave cargo, la massa complessiva della merce in ingresso e in uscita deve essere controllata. Se cambia la disposizione dei colli, il carico può essere riorganizzato, ma non deve "scomparire".
+
+Allo stesso modo, in una reazione chimica gli atomi si riorganizzano: cambiano i prodotti, ma la massa totale si conserva se il sistema è chiuso.
+
+# Metodo sperimentale nella lezione
+
+Per distinguere correttamente una trasformazione fisica da una chimica è necessario applicare il metodo sperimentale.
+
+## Fasi operative
+
+1. **Osservazione**: descrivere il fenomeno senza interpretazioni affrettate.
+2. **Ipotesi**: proporre una spiegazione provvisoria.
+3. **Esperimento**: verificare l'ipotesi in condizioni controllate.
+4. **Raccolta dati**: registrare ciò che accade.
+5. **Conclusione**: stabilire se i dati confermano o smentiscono l'ipotesi.
+
+## Osservabilità, misurabilità, ripetibilità
+
+Un fenomeno tecnico deve essere:
+
+- osservabile;
+- misurabile;
+- ripetibile.
+
+Questi tre criteri permettono di trasformare un'impressione in un dato tecnico.
+
+# Scheda operativa di laboratorio
+
+La lezione prevede un'attività laboratoriale dedicata all'osservazione delle trasformazioni fisiche e chimiche.
+
+## Obiettivo dell'attività
+
+Riconoscere sperimentalmente la differenza tra:
+
+- cambiamenti di stato o aspetto;
+- trasformazioni con formazione di nuove sostanze.
+
+## Fenomeni osservabili
+
+| Fenomeno | Tipo di trasformazione | Motivazione |
+|---|---|---|
+| Fusione del ghiaccio | Fisica | L'acqua cambia stato, ma rimane acqua |
+| Evaporazione dell'acqua | Fisica | Cambia lo stato fisico, non la composizione |
+| Corrosione del ferro | Chimica | Si forma una nuova sostanza |
+| Combustione | Chimica | Reagenti e prodotti sono sostanze diverse |
+
+## Sicurezza in laboratorio
+
+Durante le attività pratiche è necessario rispettare le norme di sicurezza.
+
+- Indossare il camice.
+- Utilizzare scarpe chiuse.
+- Non toccare materiali caldi.
+- Manipolare strumenti e metalli con attenzione.
+- Seguire le indicazioni del docente.
+- Non avvicinare materiali infiammabili alle fonti di calore.
+
+::: {.callout-warning title="Protocollo di sicurezza"}
+Le fonti di calore devono essere utilizzate solo sotto la supervisione del docente. I materiali caldi possono sembrare freddi: non vanno mai toccati direttamente.
+:::
+
+# Risorse multimediali
+
+## Infografica
+
+![](../immagini/modulo1/l1_03_infografica_1.png){fig-width=95%}
+
+## Podcast
+
+[La battaglia atomica che muove le navi](../risorse/audio/l1_03_audio_1.m4a)
+
+## Video
+
+[Il motore invisibile](../risorse/video/l1_03_video_1.mp4)
+
+## Presentazioni
+
+[Matter Transformation Lab](../risorse/presentazioni/l1_03_presentazione_1.pptx)
+
+[Chemistry in Logistics](../risorse/presentazioni/l1_03_presentazione_2.pptx)
+
+## Schede operative
+
+[Scheda operativa di laboratorio](../risorse/schede/l1_03_scheda_operativa_1.docx)
+
+[Report di transizione didattica](../risorse/schede/l1_03_scheda_operativa_2.docx)
+
+# Attività guidata
+
+## Classificare i fenomeni
+
+Classifica i seguenti fenomeni come trasformazioni fisiche o chimiche e motiva la risposta.
+
+| Fenomeno | Fisica o chimica? | Motivazione |
+|---|---|---|
+| Evaporazione dell'acqua marina | | |
+| Combustione del gasolio | | |
+| Formazione della ruggine | | |
+| Fusione del ghiaccio sulle ali | | |
+| Corrosione di una chiglia | | |
+
+## Caso tecnico
+
+Una nave presenta un aumento dei consumi e alcune parti dello scafo mostrano segni di corrosione.
+
+Rispondi:
+
+1. Quali trasformazioni chimiche potrebbero essere coinvolte?
+2. Quali osservazioni dovrebbe registrare il tecnico?
+3. Quali dati sarebbero utili per valutare il problema?
+4. Quale ruolo può avere la protezione catodica?
+5. Perché è importante distinguere tra osservazione e interpretazione?
+
+# Verifica formativa
+
+## Domande a risposta breve
+
+1. Che cos'è una trasformazione fisica?
+2. Che cos'è una trasformazione chimica?
+3. Perché la fusione del ghiaccio non è una reazione chimica?
+4. Perché la ruggine è una nuova sostanza?
+5. Che cosa afferma la legge di conservazione della massa?
+6. Perché l'acqua di mare favorisce la corrosione?
+7. Che cosa sono gli anodi sacrificali?
+8. Perché il metodo sperimentale è utile nella manutenzione tecnica?
+
+## Quesiti a scelta multipla
+
+1. Quale tra i seguenti processi è una trasformazione chimica?
+
+   A. Evaporazione dell'acqua  
+   B. Fusione del ghiaccio  
+   C. Formazione della ruggine  
+   D. Condensazione del vapore  
+
+2. Durante una trasformazione fisica:
+
+   A. si formano sempre nuove sostanze  
+   B. cambia la composizione chimica  
+   C. la sostanza mantiene la propria identità  
+   D. la massa non può essere misurata  
+
+3. La combustione di un carburante è:
+
+   A. una trasformazione fisica  
+   B. una trasformazione chimica  
+   C. una semplice miscela  
+   D. una condensazione  
+
+4. Gli anodi sacrificali servono a:
+
+   A. aumentare la velocità della nave  
+   B. consumarsi al posto del metallo da proteggere  
+   C. rendere l'acqua dolce  
+   D. produrre carburante  
+
+5. La legge di Lavoisier afferma che:
+
+   A. la massa si conserva in un sistema chiuso  
+   B. la materia scompare durante una combustione  
+   C. le trasformazioni fisiche producono sempre gas  
+   D. l'acqua di mare non contiene sali  
+
+# Soluzioni essenziali
+
+## Domande a risposta breve
+
+1. Una trasformazione fisica modifica stato, forma o aspetto senza cambiare la composizione.
+2. Una trasformazione chimica produce nuove sostanze.
+3. Perché l'acqua rimane acqua: cambia solo lo stato fisico.
+4. Perché l'ossido di ferro ha composizione e proprietà diverse dal ferro.
+5. In un sistema chiuso la massa totale dei reagenti è uguale alla massa totale dei prodotti.
+6. Perché contiene ioni disciolti e può agire da elettrolita.
+7. Sono metalli più reattivi, come zinco o magnesio, che si ossidano al posto della struttura protetta.
+8. Perché permette di distinguere dati osservati, ipotesi e conclusioni operative.
+
+## Quesiti a scelta multipla
+
+1. C
+2. C
+3. B
+4. B
+5. A
+
+# Parole chiave
+
+**Anodo sacrificale**: metallo che si ossida intenzionalmente per proteggere una struttura metallica.
+
+**Combustione**: trasformazione chimica in cui un combustibile reagisce con un comburente liberando energia.
+
+**Corrosione**: degradazione chimica o elettrochimica di un materiale, spesso metallico.
+
+**Elettrolita**: soluzione che permette il passaggio di cariche elettriche.
+
+**Materia**: tutto ciò che possiede massa e occupa uno spazio.
+
+**Prodotti**: sostanze ottenute al termine di una reazione chimica.
+
+**Reagenti**: sostanze iniziali che partecipano a una reazione chimica.
+
+**Trasformazione chimica**: cambiamento che produce nuove sostanze.
+
+**Trasformazione fisica**: cambiamento che modifica stato, forma o aspetto senza produrre nuove sostanze.
+
+# Sintesi finale
+
+Le trasformazioni della materia possono essere fisiche o chimiche. Le trasformazioni fisiche modificano stato, forma o aspetto, ma non cambiano la composizione della sostanza. Le trasformazioni chimiche, invece, producono nuove sostanze e sono fondamentali per comprendere fenomeni come combustione, corrosione e protezione dei materiali.
+
+Nel settore dei Trasporti e della Logistica questa distinzione ha valore operativo: permette di interpretare il comportamento di carburanti, metalli, gomme e sistemi tecnici. Il metodo sperimentale consente di osservare, misurare e classificare i fenomeni, trasformando una semplice impressione in una decisione tecnica fondata.
+
+## Prosegui il percorso
+
+- [Lezione 1.4 — Dalle origini della chimica alle prime civiltà](lezione_1_4.qmd)
+- [Glossario](../glossario.qmd)
+- [Esercizi Modulo 1](../esercizi/esercizi_modulo1.qmd)
+- [Bibliografia](../bibliografia.qmd)

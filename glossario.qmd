@@ -1,0 +1,46 @@
+---
+title: "Glossario"
+lang: it
+---
+
+# Glossario
+
+## Accuratezza
+
+Vicinanza di una misura al valore vero o accettato come riferimento.
+
+## Anodo sacrificale
+
+Metallo che si ossida al posto della struttura metallica da proteggere.
+
+## Biofouling
+
+Accumulo di organismi su superfici immerse, come scafi o eliche.
+
+## Carburante
+
+Sostanza che libera energia attraverso una trasformazione chimica.
+
+## Chimica
+
+Scienza che studia la materia, la sua composizione, struttura, proprietà e trasformazioni.
+
+## Combustione
+
+Trasformazione chimica in cui un combustibile reagisce con un comburente liberando energia.
+
+## Corrosione
+
+Degradazione di un materiale dovuta a reazioni chimiche o elettrochimiche.
+
+## Metodo sperimentale
+
+Procedura basata su osservazione, ipotesi, esperimento, dati, analisi e conclusione.
+
+## Trasformazione chimica
+
+Cambiamento che produce nuove sostanze.
+
+## Trasformazione fisica
+
+Cambiamento che non produce nuove sostanze.

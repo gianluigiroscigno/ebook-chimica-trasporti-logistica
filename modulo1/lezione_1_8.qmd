@@ -1,0 +1,479 @@
+---
+title: "Lezione 1.8 — Misurare la materia: massa, unità di misura e conservazione"
+subtitle: "Dal dato qualitativo alla chimica quantitativa nei Trasporti e nella Logistica"
+author: "Chimica per i Trasporti e la Logistica"
+lang: it
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+  pdf:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+---
+
+# Lezione 1.8 — Misurare la materia: massa, unità di misura e conservazione
+
+*La chimica diventa pienamente scientifica quando l'osservazione viene trasformata in misura. Un fumo allo scarico, una corrosione visibile, un aumento dei consumi o una variazione di temperatura sono segnali importanti, ma diventano dati tecnici solo quando possono essere misurati, confrontati e interpretati. In questa lezione il metodo sperimentale incontra la chimica quantitativa: massa, unità di misura, Sistema Internazionale e legge di conservazione della massa diventano strumenti operativi per la sicurezza e l'efficienza nei Trasporti e nella Logistica.*
+
+## Collegamenti nel modulo
+
+Questa lezione prosegue il lavoro sul metodo sperimentale. Nella lezione precedente abbiamo visto che un fenomeno deve essere osservabile, misurabile e ripetibile per diventare oggetto di indagine scientifica. Ora approfondiamo il secondo passaggio: la misura.
+
+- Lezione precedente: [Lezione 1.7 — Il metodo sperimentale: osservazione, ipotesi ed esperimento](lezione_1_7.qmd)
+- Lezione successiva: [Lezione 1.9](lezione_1_9.qmd)
+- Glossario generale: [Glossario](../glossario.qmd)
+- Esercizi del Modulo 1: [Esercizi del Modulo 1](../esercizi/esercizi_modulo1.qmd)
+- Bibliografia: [Bibliografia](../bibliografia.qmd)
+
+```{=html}
+<!-- Immagini previste nella struttura del progetto:
+![Misurare la materia nei trasporti](../immagini/modulo1/l1_8_misurare_materia.png)
+![Bilancia e conservazione della massa](../immagini/modulo1/l1_8_bilancia_lavoisier.png)
+![Schema In-Out della conservazione della massa](../immagini/modulo1/l1_8_schema_in_out.png)
+-->
+```
+
+## Per iniziare
+
+Un aereo deve affrontare una tratta a lungo raggio. Prima della partenza, il carburante viene controllato: non basta sapere che si tratta di cherosene. Occorre conoscere dati precisi, come la quantità imbarcata, la stabilità alle basse temperature, la densità energetica e l'eventuale presenza di impurità.
+
+In modo simile, uno scafo può mostrare segni di corrosione, ma per decidere un intervento non basta osservare la ruggine. Bisogna misurare quanto materiale si è degradato, valutare lo stato degli anodi sacrificali, stimare il rischio e programmare la manutenzione.
+
+La misura permette di passare da una frase generica, come «il fenomeno sembra grave», a un'informazione tecnica: «la massa dell'anodo è diminuita del 30%», «la temperatura è scesa sotto il limite operativo», «il consumo è aumentato del 15%», «la concentrazione dell'impurità supera il valore ammesso».
+
+::: {.callout-note title="Idea guida"}
+In chimica, misurare significa rendere controllabile la materia. Nel settore T&L, un dato misurato correttamente può prevenire un guasto, ridurre un rischio, migliorare l'efficienza e rendere tracciabile una trasformazione.
+:::
+
+## Obiettivi della lezione
+
+Al termine della lezione lo studente dovrà essere in grado di:
+
+- spiegare perché la misura è essenziale nella chimica moderna;
+- distinguere osservazione qualitativa e misura quantitativa;
+- riconoscere massa, volume, temperatura, lunghezza e tempo come grandezze rilevanti nei fenomeni chimici e tecnici;
+- utilizzare il Sistema Internazionale come linguaggio comune della misura;
+- comprendere il ruolo della bilancia nella rivoluzione scientifica di Lavoisier;
+- enunciare e interpretare la legge di conservazione della massa;
+- applicare l'analogia del bilanciamento dei carichi alle trasformazioni chimiche;
+- collegare la misura della materia a casi tecnici del settore Trasporti e Logistica.
+
+## Dall'osservazione qualitativa alla misura quantitativa
+
+Un'osservazione qualitativa descrive un fenomeno con parole: un liquido è torbido, un metallo appare corroso, un gas ha odore pungente, uno pneumatico è usurato, un fumo allo scarico è più scuro del normale.
+
+Queste osservazioni sono utili perché orientano l'indagine. Tuttavia non sono sufficienti per prendere decisioni tecniche affidabili. Per stabilire se un carburante è conforme, se una lega è adatta, se una reazione è avvenuta correttamente o se un materiale è ancora sicuro, occorre passare alla misura quantitativa.
+
+Una misura quantitativa esprime il fenomeno attraverso un numero e un'unità di misura. Per esempio:
+
+- massa del campione: 250 g;
+- temperatura del carburante: -35 °C;
+- concentrazione di un'impurità: 20 ppm;
+- consumo di carburante: 15% superiore al valore abituale;
+- contenuto minimo di cromo in un acciaio inossidabile: 10,5%;
+- densità energetica di un carburante aeronautico: circa 43 MJ/kg.
+
+Il numero da solo non basta. Anche l'unità è indispensabile. Scrivere «43» non dice nulla se non si specifica che si tratta di megajoule per chilogrammo. Scrivere «-47» non è sufficiente se non si chiarisce che si parla di gradi Celsius.
+
+::: {.callout-warning title="Errore da evitare"}
+Un dato senza unità di misura è incompleto. In ambito tecnico può diventare pericoloso, perché impedisce il confronto corretto tra strumenti, procedure, limiti di sicurezza e valori di riferimento.
+:::
+
+## Che cosa significa misurare
+
+Misurare significa confrontare una grandezza con un'unità scelta come riferimento. Se diciamo che una massa è pari a 2 kg, stiamo confrontando quella quantità di materia con l'unità chilogrammo. Se diciamo che una temperatura è pari a 300 K, stiamo usando il kelvin come riferimento.
+
+Ogni misura contiene tre elementi:
+
+1. una **grandezza**, cioè ciò che si vuole misurare;
+2. un **valore numerico**, cioè il risultato del confronto;
+3. una **unità di misura**, cioè il riferimento adottato.
+
+Esempio:
+
+$$
+20\ \text{kg}
+$$
+
+In questa scrittura:
+
+- la grandezza è la massa;
+- il valore numerico è 20;
+- l'unità di misura è il chilogrammo.
+
+Nel linguaggio professionale, questi tre elementi non devono essere separati. Una massa indicata senza unità, una temperatura senza scala o una concentrazione senza riferimento non sono dati tecnici completi.
+
+## Il Sistema Internazionale come linguaggio comune
+
+Il **Sistema Internazionale di unità di misura**, indicato con la sigla **SI**, è il sistema standard usato dalla scienza e dalla tecnica per rendere le misure confrontabili. La sua funzione non è solo scolastica: permette a laboratori, officine, cantieri navali, aeroporti, depositi e centri logistici di comunicare dati in modo univoco.
+
+Nel settore Trasporti e Logistica, l'uso corretto delle unità di misura è un requisito di sicurezza. Una temperatura, una massa o una concentrazione interpretate in modo errato possono compromettere la gestione di un carico, la stabilità di un materiale, il funzionamento di un motore o la conformità di una procedura.
+
+| Grandezza | Unità SI | Simbolo | Esempio tecnico nel settore T&L |
+|---|---:|---:|---|
+| Massa | chilogrammo | kg | Quantità di carburante, massa del carico, massa di un campione |
+| Lunghezza | metro | m | Dimensioni di un componente, spessore di uno strato protettivo, distanza percorsa |
+| Tempo | secondo | s | Durata di un test, tempo di reazione, intervallo di manutenzione |
+| Temperatura | kelvin | K | Stabilità di carburanti, prove in camera climatica, controllo termico |
+| Quantità di sostanza | mole | mol | Conteggio chimico di particelle e reagenti |
+
+Nella pratica quotidiana si usano anche unità derivate o unità non SI ammesse in molti contesti, come il grado Celsius per la temperatura. Tuttavia, il riferimento scientifico resta il Sistema Internazionale.
+
+::: {.callout-tip title="Collegamento T&L"}
+Il Sistema Internazionale funziona come un protocollo comune: consente di evitare ambiguità tra laboratori, reparti tecnici, fornitori, autorità di controllo e operatori logistici.
+:::
+
+## Massa, volume e temperatura
+
+Tra le grandezze più importanti per la chimica introduttiva troviamo massa, volume e temperatura.
+
+### Massa
+
+La **massa** è la quantità di materia presente in un corpo o in un campione. È una grandezza fondamentale perché permette di seguire la materia durante una trasformazione.
+
+In chimica, misurare la massa significa controllare quanta materia entra e quanta materia esce da un processo. Per questo la bilancia è uno strumento centrale. La massa di un reagente, di un prodotto, di un campione o di un residuo permette di costruire un bilancio quantitativo.
+
+Nel settore T&L la massa ha anche valore operativo:
+
+- definisce il carico trasportabile;
+- condiziona i consumi energetici;
+- influisce sulla stabilità dei mezzi;
+- permette di controllare l'inventario di merci e materiali;
+- consente di valutare il degrado di componenti e protezioni.
+
+### Volume
+
+Il **volume** è lo spazio occupato da un corpo o da una sostanza. È particolarmente importante per liquidi e gas, perché carburanti, lubrificanti, solventi, gas tecnici e merci liquide sono spesso gestiti in serbatoi, bombole o contenitori.
+
+Il volume non sostituisce la massa. Due sostanze possono occupare lo stesso volume ma avere massa diversa. Per questo, quando si gestiscono carburanti o liquidi tecnici, occorre distinguere il dato volumetrico dal dato massico.
+
+Esempio: un serbatoio può contenere un certo volume di carburante, ma la massa effettiva dipende anche dalla densità e dalla temperatura.
+
+### Temperatura
+
+La **temperatura** descrive lo stato termico di un sistema. In chimica è importante perché influenza:
+
+- lo stato fisico delle sostanze;
+- la velocità delle reazioni;
+- la volatilità dei liquidi;
+- la stabilità dei carburanti;
+- la degradazione di materiali come gomme, guarnizioni ed elastomeri.
+
+Nel caso del cherosene Jet-A1, la stabilità a basse temperature è un parametro essenziale per l'impiego aeronautico. Alle quote di crociera l'ambiente è molto freddo; il carburante deve mantenere caratteristiche idonee per restare fluido e utilizzabile.
+
+## Misure e sicurezza operativa
+
+Nel settore dei trasporti, la misura non è un esercizio astratto. È una barriera di sicurezza.
+
+Un valore di temperatura permette di stabilire se un carburante può essere impiegato in certe condizioni. Una percentuale di cromo permette di riconoscere se un acciaio può formare lo strato passivante che lo protegge dalla corrosione. Una densità energetica permette di valutare se un carburante garantisce l'autonomia necessaria. Una misura di concentrazione permette di stabilire se un campione è contaminato.
+
+### Cherosene e temperatura
+
+Il cherosene aeronautico deve conservare proprietà adeguate anche a basse temperature. In questo caso la temperatura non è solo un dato fisico: è un parametro di sicurezza. Un carburante che perde fluidità o che non rispetta i limiti richiesti può compromettere il funzionamento del sistema di alimentazione.
+
+### Acciaio inossidabile e composizione
+
+Un acciaio è definito inossidabile quando contiene una quantità sufficiente di cromo per formare uno strato protettivo superficiale. La soglia del 10,5% di cromo mostra perché la chimica dei materiali è quantitativa: non basta dire che nella lega c'è cromo, bisogna sapere quanto ce n'è.
+
+### SAF e densità energetica
+
+I **SAF**, Sustainable Aviation Fuels, sono carburanti aeronautici sostenibili progettati per ridurre l'impatto ambientale del trasporto aereo. Per essere tecnicamente utili devono mantenere prestazioni compatibili con le esigenze operative, tra cui una densità energetica adeguata.
+
+Dire che un carburante è sostenibile non basta. Occorre misurare quanta energia libera per unità di massa, come si comporta alle basse temperature, come viene conservato e quali prodotti genera durante la combustione.
+
+### Fouling e consumi
+
+Il **biofouling**, cioè la crescita di organismi sulle superfici immerse, può aumentare la resistenza all'avanzamento di uno scafo. Un aumento dei consumi del 15% non è solo un'impressione: è un dato quantitativo che può orientare la diagnosi tecnica, la pulizia dello scafo e la scelta dei rivestimenti antivegetativi.
+
+::: {.callout-note title="Dal sintomo al dato"}
+Il tecnico osserva il sintomo, ma decide sulla base del dato. La misura trasforma un'anomalia in una diagnosi verificabile.
+:::
+
+## Lavoisier e il primato della bilancia
+
+La chimica moderna deve molto ad Antoine-Laurent de Lavoisier. Il suo contributo non consiste soltanto in una singola scoperta, ma in un cambiamento di metodo: la materia deve essere misurata.
+
+Prima della chimica moderna, molte spiegazioni erano basate su osservazioni qualitative, termini incerti o interpretazioni non controllate. Lavoisier introdusse l'uso sistematico della bilancia, pesando reagenti e prodotti e mostrando che, in un sistema chiuso, la massa totale non cambia durante una trasformazione chimica.
+
+La bilancia diventa così il simbolo della chimica quantitativa. Non basta vedere che una candela brucia o che un metallo si ossida. Bisogna seguire la materia, misurare le masse, considerare anche i gas e verificare che ciò che entra nel sistema corrisponda a ciò che esce.
+
+> Nulla si crea, nulla si distrugge, tutto si trasforma.
+
+Questa frase sintetizza la legge di conservazione della massa. Il suo significato non è poetico, ma scientifico: in una trasformazione chimica gli atomi non vengono creati né distrutti, ma si riorganizzano in nuove sostanze.
+
+::: {.callout-warning title="Errore da evitare"}
+Quando una sostanza brucia, una parte dei prodotti può disperdersi sotto forma di gas. Questo può far pensare che la massa sia diminuita. In realtà la materia non è sparita: è uscita dal sistema se il sistema è aperto, oppure resta conteggiabile se il sistema è chiuso.
+:::
+
+## Sistema aperto e sistema chiuso
+
+Per comprendere la legge di conservazione della massa è necessario distinguere tra sistema aperto e sistema chiuso.
+
+Un **sistema aperto** scambia materia con l'ambiente. Per esempio, un motore in funzione riceve carburante e ossigeno, produce gas di scarico e li rilascia all'esterno. Se si misura solo ciò che resta nel serbatoio, sembra che la massa sia diminuita; in realtà una parte della materia è stata trasformata e dispersa come prodotti di combustione.
+
+Un **sistema chiuso** non scambia materia con l'esterno. In un sistema chiuso, la massa totale dei reagenti deve essere uguale alla massa totale dei prodotti.
+
+La relazione fondamentale è:
+
+$$
+m_{\text{reagenti}} = m_{\text{prodotti}}
+$$
+
+oppure, in forma più generale:
+
+$$
+\text{massa in ingresso} = \text{massa in uscita}
+$$
+
+Questa relazione prepara il lavoro sul bilanciamento delle reazioni: se la massa si conserva, anche gli atomi devono essere rintracciabili da una parte all'altra della trasformazione.
+
+## L'analogia del bilanciamento dei carichi
+
+Per comprendere la conservazione della massa possiamo usare un'analogia logistica: il bilanciamento dei carichi in una nave cargo.
+
+In uno **Stowage Plan**, cioè un piano di carico, i container possono essere spostati, raggruppati, scaricati o riorganizzati. Tuttavia il manifesto di carico deve restare coerente: ciò che entra e ciò che esce deve essere tracciabile.
+
+In una reazione chimica accade qualcosa di simile. Gli atomi non spariscono e non nascono dal nulla. Cambiano combinazione, come container ricollocati in una nuova disposizione.
+
+| Logica logistica | Logica chimica |
+|---|---|
+| Container in ingresso e in uscita | Atomi presenti nei reagenti e nei prodotti |
+| Manifesto di carico | Bilancio della reazione |
+| Peso totale del carico | Massa totale del sistema |
+| Codice identificativo del container | Identità dell'atomo |
+| Nuova disposizione dei container | Nuova struttura delle molecole |
+
+Questa analogia aiuta a capire un punto centrale: la trasformazione chimica cambia l'organizzazione della materia, non la quantità complessiva di materia in un sistema chiuso.
+
+::: {.callout-tip title="Collegamento inclusivo"}
+Per ricordare la legge di Lavoisier puoi usare lo schema In = Out. Ciò che entra nel sistema deve essere ritrovato in uscita, anche se organizzato in modo diverso.
+:::
+
+## Atomi come unità tracciabili
+
+Nelle lezioni precedenti abbiamo incontrato l'idea di atomo come unità fondamentale della materia. Ora questa idea diventa operativa: se gli atomi sono le unità che compongono le sostanze, allora una trasformazione chimica può essere interpretata come una riorganizzazione di unità.
+
+Quando il carbonio di un carburante reagisce con l'ossigeno, si può formare anidride carbonica:
+
+$$
+\text{C} + \text{O}_2 \rightarrow \text{CO}_2
+$$
+
+In questa rappresentazione, l'atomo di carbonio non scompare. Gli atomi di ossigeno non scompaiono. Si combinano in una nuova sostanza.
+
+Lo stesso ragionamento vale per l'ossidazione dei metalli. Quando il ferro si trasforma in ossidi di ferro, il metallo non si annulla: reagisce con l'ossigeno e forma composti diversi. La ruggine è quindi il segnale visibile di una trasformazione che può essere letta anche in termini quantitativi.
+
+## Dalla misura alla previsione
+
+Misurare non serve soltanto a descrivere il presente. Serve anche a prevedere.
+
+Se un anodo sacrificale perde massa nel tempo, la misura della sua massa residua permette di stimare quando dovrà essere sostituito. Se una lega contiene una percentuale insufficiente di cromo, il materiale potrebbe non offrire la resistenza alla corrosione prevista. Se il carburante contiene impurità oltre un limite stabilito, il rischio tecnico aumenta. Se il consumo cresce del 15%, bisogna individuare una causa e verificare se l'intervento produce un miglioramento misurabile.
+
+La misura trasforma il tecnico da osservatore a decisore. Non elimina la necessità di interpretare i fenomeni, ma fornisce basi più solide per scegliere.
+
+## Esempi guidati
+
+### Esempio 1 — Dato qualitativo e dato quantitativo
+
+Un tecnico osserva: «lo scarico del motore produce fumo più scuro del solito».
+
+Questa è un'osservazione qualitativa. Per renderla quantitativa può misurare, per esempio:
+
+- la concentrazione di particolato nei gas di scarico;
+- il consumo di carburante per chilometro;
+- la temperatura dei gas;
+- la composizione dei prodotti di combustione.
+
+La misura permette di verificare se l'anomalia è reale, quanto è significativa e quale ipotesi è più plausibile.
+
+### Esempio 2 — Acciaio inossidabile
+
+Un componente metallico deve essere usato in ambiente marino. Il fornitore dichiara che si tratta di acciaio inossidabile.
+
+Quale dato chimico è importante controllare?
+
+È importante controllare la composizione della lega, in particolare la percentuale di cromo. La presenza di almeno il 10,5% di cromo consente la formazione dello strato passivante che protegge il metallo dalla corrosione.
+
+### Esempio 3 — Combustione e sistema aperto
+
+Durante la combustione di un carburante, la massa del carburante nel serbatoio diminuisce.
+
+Questo contraddice la legge di Lavoisier?
+
+No. Il serbatoio e il motore, durante il funzionamento, costituiscono un sistema aperto: entrano ossigeno e carburante, escono gas di scarico. La materia del carburante non scompare, ma si trasforma in prodotti che lasciano il sistema.
+
+### Esempio 4 — Anodi sacrificali
+
+Un anodo di zinco installato su uno scafo perde progressivamente massa.
+
+Che cosa indica questa perdita?
+
+Indica che lo zinco si sta ossidando intenzionalmente per proteggere il metallo principale. Misurare la massa residua dell'anodo permette di programmare la sostituzione prima che la protezione diventi insufficiente.
+
+## Mappa concettuale della lezione
+
+```{mermaid}
+flowchart LR
+    A[Osservazione] --> B[Misura]
+    B --> C[Numero + unità]
+    C --> D[Sistema Internazionale]
+    B --> E[Massa]
+    B --> F[Volume]
+    B --> G[Temperatura]
+    E --> H[Bilancia]
+    H --> I[Lavoisier]
+    I --> L[Legge di conservazione della massa]
+    L --> M[Sistema chiuso]
+    M --> N[massa reagenti = massa prodotti]
+    L --> O[Bilanciamento dei carichi]
+    O --> P[Atomi come container]
+    P --> Q[Tracciabilità della materia]
+```
+
+## Attività breve
+
+Leggi le situazioni seguenti. Per ciascuna indica quale grandezza dovresti misurare e quale unità useresti.
+
+1. Verificare se un carburante resta utilizzabile a bassa temperatura.
+2. Controllare la quantità di anodo sacrificale ancora disponibile su uno scafo.
+3. Stabilire se un acciaio contiene abbastanza cromo per essere definito inossidabile.
+4. Confrontare il rendimento energetico di due carburanti aeronautici.
+5. Valutare se il consumo di una nave è aumentato dopo la crescita di biofouling sulla carena.
+
+## Verifica formativa
+
+### Domande a risposta breve
+
+1. Che cosa significa misurare una grandezza?
+2. Perché un numero senza unità di misura non è un dato tecnico completo?
+3. Qual è la differenza tra osservazione qualitativa e misura quantitativa?
+4. Perché il Sistema Internazionale è importante nel settore dei Trasporti e della Logistica?
+5. Quale ruolo ha avuto la bilancia nel lavoro di Lavoisier?
+6. Che cosa afferma la legge di conservazione della massa?
+7. Perché la legge di Lavoisier vale in modo rigoroso in un sistema chiuso?
+8. In che modo lo Stowage Plan può aiutare a comprendere la conservazione della massa?
+9. Perché la misura della massa residua di un anodo sacrificale è utile nella manutenzione navale?
+10. Perché la densità energetica è un dato importante nella scelta di un carburante aeronautico?
+
+### Quesiti a scelta multipla
+
+1. Una misura completa deve contenere:
+   A. solo un numero  
+   B. solo il nome dello strumento  
+   C. valore numerico e unità di misura  
+   D. solo una descrizione qualitativa  
+
+2. Il Sistema Internazionale serve principalmente a:
+   A. rendere le misure confrontabili  
+   B. sostituire tutti gli strumenti di laboratorio  
+   C. eliminare la necessità di esperimenti  
+   D. trasformare le sostanze in elementi  
+
+3. La massa è:
+   A. lo spazio occupato da un corpo  
+   B. la quantità di materia di un corpo  
+   C. la temperatura di un sistema  
+   D. la velocità di una reazione  
+
+4. La legge di conservazione della massa afferma che, in un sistema chiuso:
+   A. la massa dei prodotti è sempre minore di quella dei reagenti  
+   B. la massa totale resta costante  
+   C. gli atomi vengono distrutti durante la combustione  
+   D. i gas non hanno massa  
+
+5. Nell'analogia dello Stowage Plan, gli atomi sono paragonati a:
+   A. documenti di viaggio  
+   B. container tracciabili  
+   C. onde del mare  
+   D. strumenti di misura  
+
+6. Un acciaio inossidabile richiede una quantità sufficiente di:
+   A. cromo  
+   B. elio  
+   C. azoto liquido  
+   D. zolfo libero  
+
+7. Il cherosene Jet-A1 deve essere controllato anche rispetto alla:
+   A. stabilità alle basse temperature  
+   B. capacità di reagire con l'azoto  
+   C. presenza obbligatoria di acqua  
+   D. trasformazione spontanea in metallo  
+
+8. Se durante una combustione i prodotti gassosi escono dal sistema, il sistema è:
+   A. chiuso  
+   B. aperto  
+   C. isolato dalla materia  
+   D. privo di massa  
+
+### Vero o falso
+
+1. Una misura senza unità di misura è incompleta.  
+2. Il kelvin è l'unità SI della temperatura.  
+3. In un sistema chiuso la massa totale dei reagenti è uguale alla massa totale dei prodotti.  
+4. I gas non devono essere considerati nel bilancio di massa.  
+5. La bilancia è uno strumento centrale nella chimica quantitativa.  
+6. In una trasformazione chimica gli atomi si riorganizzano.  
+7. Il biofouling può essere studiato anche attraverso dati quantitativi sui consumi.  
+8. La legge di Lavoisier afferma che la materia scompare durante le reazioni.  
+
+## Ripasso guidato
+
+1. La chimica moderna richiede misure, non solo osservazioni.
+2. Una misura completa contiene grandezza, numero e unità.
+3. Il Sistema Internazionale rende i dati confrontabili.
+4. Massa, volume e temperatura sono grandezze fondamentali per interpretare la materia.
+5. Lavoisier trasformò la chimica in scienza quantitativa attraverso l'uso sistematico della bilancia.
+6. In un sistema chiuso la massa totale si conserva.
+7. Gli atomi non spariscono: si riorganizzano in nuove sostanze.
+8. Lo Stowage Plan aiuta a visualizzare il principio In = Out.
+9. Nel settore T&L misurare significa controllare sicurezza, efficienza e tracciabilità.
+
+## Glossario essenziale
+
+**Misura**  
+Confronto tra una grandezza e un'unità di riferimento.
+
+**Grandezza**  
+Proprietà di un corpo o di un fenomeno che può essere misurata.
+
+**Unità di misura**  
+Riferimento usato per esprimere il valore di una grandezza.
+
+**Sistema Internazionale**  
+Sistema standard di unità di misura usato in ambito scientifico e tecnico.
+
+**Massa**  
+Quantità di materia presente in un corpo o in un campione.
+
+**Volume**  
+Spazio occupato da un corpo o da una sostanza.
+
+**Temperatura**  
+Grandezza che descrive lo stato termico di un sistema.
+
+**Sistema aperto**  
+Sistema che scambia materia con l'ambiente esterno.
+
+**Sistema chiuso**  
+Sistema che non scambia materia con l'ambiente esterno.
+
+**Legge di conservazione della massa**  
+Principio secondo cui, in un sistema chiuso, la massa totale dei reagenti è uguale alla massa totale dei prodotti.
+
+**Bilancia**  
+Strumento usato per misurare la massa.
+
+**Stowage Plan**  
+Piano di carico che descrive la disposizione e la distribuzione dei carichi su una nave.
+
+**Tracciabilità della materia**  
+Possibilità di seguire la materia durante una trasformazione, riconoscendo che gli atomi si riorganizzano senza sparire.
+
+## Collegamento alla lezione successiva
+
+Misurare la materia permette di comprendere perché una trasformazione chimica non distrugge ciò che era presente all'inizio. La massa, in un sistema chiuso, resta costante; gli atomi si riorganizzano; i prodotti derivano dai reagenti.
+
+Nella [Lezione 1.9](lezione_1_9.qmd) questo principio sarà approfondito attraverso la legge di Lavoisier come fondamento del bilanciamento delle reazioni e della tracciabilità degli atomi.

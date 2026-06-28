@@ -1,0 +1,526 @@
+---
+title: "Lezione 1.1 — Che cos'è la chimica e che cosa studia"
+subtitle: "Modulo 1 — Chimica in movimento"
+author: "Chimica per i Trasporti e la Logistica"
+lang: it
+
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+  pdf:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+
+crossref:
+  fig-title: "Figura"
+---
+
+# Che cos'è la chimica e che cosa studia
+
+*La chimica è la scienza che studia la materia, la sua composizione, la sua struttura e le trasformazioni che essa può subire. Nel settore dei Trasporti e della Logistica questa definizione non rimane astratta: diventa uno strumento per comprendere materiali, carburanti, sicurezza, manutenzione, energia e sostenibilità dei mezzi e delle infrastrutture.*
+
+## Obiettivi di apprendimento
+
+Al termine della lezione sarai in grado di:
+
+- definire la **chimica** come scienza della materia e delle sue trasformazioni;
+- spiegare che cosa si intende per **materia**;
+- riconoscere esempi di materia nel settore Trasporti e Logistica;
+- distinguere una trasformazione fisica da una trasformazione chimica;
+- collegare il comportamento dei materiali alla loro composizione;
+- comprendere perché la chimica è essenziale per sicurezza, efficienza e sostenibilità.
+
+## Introduzione motivazionale
+
+Quando osserviamo una nave, un aereo, un treno o un autocarro, possiamo limitarci alla loro forma esterna oppure possiamo chiederci di che cosa sono fatti, perché funzionano, perché si degradano e come possono essere resi più sicuri.
+
+La chimica permette questo secondo tipo di sguardo.
+
+Uno scafo metallico che resiste all'acqua di mare, un carburante che libera energia, uno pneumatico che aderisce all'asfalto, una batteria che accumula energia, una vernice che protegge dalla corrosione e un materiale composito che alleggerisce un velivolo sono tutti esempi di problemi chimici applicati ai trasporti.
+
+Studiare chimica in un Istituto Tecnico a indirizzo Trasporti e Logistica significa quindi imparare a leggere la realtà tecnica attraverso la materia.
+
+::: {.callout-note title="Idea guida"}
+
+La chimica non è soltanto un insieme di formule. È un modo rigoroso di osservare la materia, riconoscere i fenomeni, interpretare le trasformazioni e prendere decisioni tecniche fondate.
+
+:::
+
+# La chimica come scienza della materia
+
+La **chimica** è la scienza che studia la materia, la sua composizione, la sua struttura e le trasformazioni che essa subisce.
+
+Questa definizione contiene tre aspetti fondamentali:
+
+1. **composizione**: di che cosa è fatta la materia;
+2. **struttura**: come sono organizzate le particelle che la costituiscono;
+3. **trasformazioni**: come la materia cambia quando avvengono processi fisici o reazioni chimiche.
+
+## Composizione
+
+Studiare la composizione significa individuare quali sostanze o elementi formano un materiale.
+
+Esempi:
+
+- l'acciaio è una lega a base di ferro e carbonio;
+- l'acciaio inossidabile contiene cromo, necessario per formare uno strato protettivo;
+- il cherosene Jet-A1 è una miscela di idrocarburi;
+- la gomma degli pneumatici è un materiale polimerico complesso;
+- i materiali compositi aeronautici uniscono fibre resistenti e matrici polimeriche.
+
+## Struttura
+
+La struttura riguarda il modo in cui atomi, molecole e particelle sono organizzati.
+
+Materiali con composizione simile possono avere proprietà diverse se cambia la loro struttura interna.
+
+Nel settore tecnico questo aspetto è decisivo per comprendere:
+
+- resistenza meccanica;
+- elasticità;
+- durezza;
+- stabilità termica;
+- conducibilità;
+- resistenza alla corrosione.
+
+## Trasformazioni
+
+Le trasformazioni descrivono i cambiamenti della materia.
+
+Alcuni cambiamenti modificano soltanto forma o stato fisico; altri producono nuove sostanze.
+
+Capire il tipo di trasformazione è essenziale per interpretare fenomeni come:
+
+- evaporazione di un liquido;
+- combustione di un carburante;
+- corrosione di un metallo;
+- indurimento di un materiale;
+- degrado di una gomma.
+
+# Che cos'è la materia
+
+La **materia** è tutto ciò che possiede massa e occupa uno spazio.
+
+Questa definizione comprende sia gli oggetti visibili sia sostanze meno evidenti, come l'aria o i gas.
+
+Nel settore Trasporti e Logistica la materia si presenta in molte forme.
+
+| Esempio di materia | Ruolo nei Trasporti e nella Logistica |
+|---|---|
+| Aria | Permette la combustione e contribuisce alla portanza aerodinamica |
+| Acqua di mare | Ambiente operativo aggressivo per navi e strutture portuali |
+| Carburante | Vettore di energia chimica per motori e turbine |
+| Metallo | Base strutturale di scafi, rotaie, telai e componenti |
+| Gomma | Materiale elastico per pneumatici, guarnizioni e sistemi di sicurezza |
+| Materiali compositi | Soluzioni leggere e resistenti per il settore aeronautico |
+
+## Materia e decisioni tecniche
+
+La scelta di un materiale non è mai casuale.
+
+Un tecnico deve chiedersi:
+
+- il materiale è abbastanza resistente?
+- si corrode facilmente?
+- è leggero?
+- sopporta il calore?
+- è compatibile con carburanti, lubrificanti o acqua salata?
+- è sicuro in condizioni operative estreme?
+
+La chimica fornisce strumenti per rispondere a queste domande.
+
+# Proprietà della materia
+
+Le proprietà della materia sono caratteristiche che permettono di descrivere e confrontare sostanze e materiali.
+
+Tra le proprietà più importanti troviamo:
+
+- massa;
+- volume;
+- densità;
+- durezza;
+- elasticità;
+- resistenza meccanica;
+- conducibilità;
+- infiammabilità;
+- reattività;
+- resistenza alla corrosione.
+
+## Esempio — Acciaio inossidabile
+
+L'acciaio inossidabile non è semplicemente ferro.
+
+È una lega progettata per resistere meglio alla corrosione. La presenza di cromo consente la formazione di uno strato superficiale protettivo che limita l'ossidazione.
+
+Questa proprietà è fondamentale per componenti esposti ad acqua, umidità o ambienti aggressivi.
+
+## Esempio — Gomma degli pneumatici
+
+La gomma non deve essere solo elastica.
+
+Deve anche:
+
+- aderire al suolo;
+- resistere all'usura;
+- sopportare variazioni di temperatura;
+- garantire sicurezza dinamica;
+- contribuire all'efficienza energetica del veicolo.
+
+La sua composizione chimica influenza direttamente prestazioni e consumi.
+
+# Le trasformazioni della materia
+
+La materia può cambiare nel tempo.
+
+La chimica distingue due categorie fondamentali:
+
+- **trasformazioni fisiche**;
+- **trasformazioni chimiche**.
+
+## Trasformazioni fisiche
+
+Nelle trasformazioni fisiche cambia l'aspetto, la forma o lo stato della materia, ma non cambia la natura chimica della sostanza.
+
+Esempi:
+
+- fusione del ghiaccio;
+- evaporazione dell'acqua;
+- condensazione del vapore;
+- frantumazione di un solido;
+- dissoluzione temporanea di una sostanza.
+
+Nel settore T&L, l'evaporazione e la condensazione sono importanti, ad esempio, nei processi di trattamento e dissalazione dell'acqua.
+
+## Trasformazioni chimiche
+
+Nelle trasformazioni chimiche le sostanze iniziali si trasformano in nuove sostanze con proprietà diverse.
+
+Esempi:
+
+- combustione del carburante;
+- formazione della ruggine;
+- ossidazione dei metalli;
+- degradazione di materiali;
+- vulcanizzazione della gomma.
+
+In questi casi la composizione della materia cambia.
+
+## Confronto tra trasformazioni fisiche e chimiche
+
+| Aspetto | Trasformazione fisica | Trasformazione chimica |
+|---|---|---|
+| Natura della sostanza | Rimane la stessa | Cambia |
+| Nuove sostanze | Non si formano | Si formano |
+| Esempio comune | Fusione del ghiaccio | Formazione della ruggine |
+| Esempio T&L | Evaporazione dell'acqua | Combustione del carburante |
+| Reversibilità | Spesso possibile | Spesso difficile |
+
+::: {.callout-important title="Regola operativa"}
+
+Per classificare una trasformazione chiediti sempre: dopo il cambiamento la sostanza è ancora la stessa oppure si sono formate nuove sostanze?
+
+:::
+
+# La chimica nei Trasporti e nella Logistica
+
+La chimica è presente in tutti i settori del trasporto.
+
+## Materiali
+
+La scelta dei materiali si basa sulle loro proprietà chimiche e fisiche.
+
+Esempi:
+
+- acciai per scafi e rotaie;
+- leghe leggere per aeromobili;
+- materiali compositi per ridurre il peso;
+- rivestimenti protettivi contro la corrosione;
+- polimeri e gomme per componenti elastici.
+
+## Carburanti
+
+I carburanti sono vettori di energia chimica.
+
+La chimica permette di comprendere:
+
+- composizione;
+- potere energetico;
+- combustione;
+- emissioni;
+- sicurezza di stoccaggio;
+- stabilità in condizioni operative.
+
+Il cherosene Jet-A1, ad esempio, deve mantenere caratteristiche adatte alle basse temperature di volo.
+
+## Sicurezza
+
+La gestione delle sostanze richiede attenzione a:
+
+- infiammabilità;
+- tossicità;
+- reattività;
+- corrosività;
+- compatibilità dei materiali;
+- modalità di trasporto.
+
+La classificazione delle merci pericolose si fonda anche sulle proprietà chimiche delle sostanze.
+
+## Manutenzione
+
+La chimica aiuta a interpretare:
+
+- corrosione;
+- ossidazione;
+- degrado di polimeri;
+- contaminazione di carburanti;
+- usura di materiali.
+
+Un tecnico che conosce la chimica può riconoscere un fenomeno, individuarne le cause e proporre interventi più efficaci.
+
+## Sostenibilità
+
+La chimica contribuisce allo sviluppo di:
+
+- carburanti sostenibili;
+- materiali riciclabili;
+- processi meno inquinanti;
+- riduzione delle emissioni;
+- sistemi energetici più efficienti.
+
+# Casi professionali
+
+## Caso 1 — Scafo navale e corrosione
+
+Una nave opera in ambiente marino.
+
+L'acqua di mare contiene sali e favorisce processi corrosivi. La chimica permette di comprendere perché un metallo si ossida e quali strategie possono ridurre il danno.
+
+Soluzioni possibili:
+
+- acciai resistenti;
+- rivestimenti protettivi;
+- controllo periodico;
+- protezione catodica;
+- anodi sacrificali.
+
+## Caso 2 — Carburante aeronautico
+
+Un aereo utilizza cherosene come carburante.
+
+Il carburante deve:
+
+- liberare energia in modo controllato;
+- restare stabile a basse temperature;
+- essere privo di impurità pericolose;
+- rispettare requisiti di sicurezza.
+
+La chimica organica e la chimica analitica sono fondamentali per studiare e controllare questi aspetti.
+
+## Caso 3 — Pneumatici
+
+Gli pneumatici sono costituiti da materiali polimerici complessi.
+
+La loro composizione influenza:
+
+- aderenza;
+- elasticità;
+- resistenza all'usura;
+- consumo di carburante;
+- sicurezza in frenata.
+
+# Raccordo con le branche della chimica
+
+Già da questa prima lezione si intravede che la chimica non è un blocco unico.
+
+Per interpretare i fenomeni tecnici servono più prospettive:
+
+| Branca | Esempio applicativo |
+|---|---|
+| Chimica organica | Carburanti, lubrificanti, polimeri |
+| Chimica inorganica | Metalli, leghe, corrosione |
+| Chimica fisica | Energia, calore, combustione |
+| Chimica analitica | Controllo qualità, impurità, emissioni |
+| Biochimica | Biocarburanti, biofouling, processi ambientali |
+
+Queste branche saranno approfondite nella lezione successiva.
+
+# Infografiche
+
+## Fondamenti di Chimica per i Trasporti
+
+![](../immagini/modulo1/l1_01_infografica_1.png){fig-width=95%}
+
+## La chimica come motore dei trasporti
+
+![](../immagini/modulo1/l1_01_infografica_2.png){fig-width=95%}
+
+# Risorse multimediali
+
+## Podcast
+
+[La chimica che muove i trasporti](../risorse/audio/l1_01_audio_1.m4a)
+
+[Dalla ruggine ai motori](../risorse/audio/l1_01_audio_2.m4a)
+
+## Video
+
+[Chimica in movimento](../risorse/video/l1_01_video_1.mp4)
+
+[Chimica nei Trasporti](../risorse/video/l1_01_video_2.mp4)
+
+## Presentazioni
+
+[The Chemistry of Transport](../risorse/presentazioni/l1_01_presentazione_1.pptx)
+
+[Transport Chemistry](../risorse/presentazioni/l1_01_presentazione_2.pptx)
+
+## Scheda operativa
+
+[Scheda operativa della lezione](../risorse/schede/l1_01_scheda_operativa.docx)
+
+# Attività guidate
+
+## Attività 1 — Riconoscere la materia nei trasporti
+
+Scegli un mezzo di trasporto tra nave, aereo, treno, automobile o camion.
+
+Individua almeno cinque esempi di materia presenti nel mezzo scelto e completa la tabella.
+
+| Esempio di materia | Funzione | Proprietà importante |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+
+## Attività 2 — Fisico o chimico?
+
+Classifica i seguenti fenomeni come trasformazioni fisiche o chimiche.
+
+| Fenomeno | Trasformazione fisica o chimica? | Motivazione |
+|---|---|---|
+| Evaporazione dell'acqua marina | | |
+| Combustione del gasolio | | |
+| Formazione della ruggine | | |
+| Fusione del ghiaccio | | |
+| Usura di uno pneumatico | | |
+
+## Attività 3 — Il tecnico osserva
+
+Leggi la situazione.
+
+Durante un controllo periodico, un tecnico nota che una parte metallica dello scafo presenta una colorazione rossastra e una superficie più fragile.
+
+Rispondi:
+
+1. Quale fenomeno potrebbe essere avvenuto?
+2. La trasformazione è fisica o chimica?
+3. Perché il fenomeno è importante per la sicurezza?
+4. Quali controlli o interventi possono essere necessari?
+
+# Verifica formativa
+
+## Domande a risposta breve
+
+1. Che cosa studia la chimica?
+2. Come si definisce la materia?
+3. Quali sono i tre aspetti principali studiati dalla chimica?
+4. Qual è la differenza tra trasformazione fisica e trasformazione chimica?
+5. Perché la chimica è importante nel settore Trasporti e Logistica?
+6. Che cosa significa dire che un carburante è un vettore di energia chimica?
+7. Perché la corrosione è un problema tecnico?
+8. Quale ruolo ha la chimica nella scelta dei materiali?
+
+## Quesiti a scelta multipla
+
+1. La materia è:
+
+   A. tutto ciò che si può vedere  
+   B. tutto ciò che ha massa e occupa spazio  
+   C. solo ciò che è solido  
+   D. solo ciò che contiene metalli  
+
+2. La combustione del carburante è:
+
+   A. una trasformazione fisica  
+   B. una trasformazione chimica  
+   C. una variazione di forma  
+   D. un cambiamento reversibile senza nuove sostanze  
+
+3. L'evaporazione dell'acqua è:
+
+   A. una trasformazione fisica  
+   B. una trasformazione chimica  
+   C. una reazione di combustione  
+   D. una corrosione  
+
+4. La ruggine si forma quando:
+
+   A. il ferro cambia soltanto forma  
+   B. il ferro si trasforma in una nuova sostanza  
+   C. l'acqua evapora  
+   D. un metallo fonde  
+
+5. La chimica è utile nei trasporti perché:
+
+   A. serve solo nei laboratori scolastici  
+   B. permette di comprendere materiali, carburanti e sicurezza  
+   C. studia solo formule astratte  
+   D. riguarda solo gli organismi viventi  
+
+# Soluzioni essenziali
+
+## Domande a risposta breve
+
+1. La chimica studia la materia, la sua composizione, la sua struttura e le sue trasformazioni.
+2. La materia è tutto ciò che possiede massa e occupa uno spazio.
+3. Composizione, struttura e trasformazioni.
+4. Nella trasformazione fisica non si formano nuove sostanze; nella trasformazione chimica sì.
+5. Perché consente di interpretare materiali, carburanti, corrosione, sicurezza e sostenibilità.
+6. Significa che contiene energia che può essere liberata attraverso trasformazioni chimiche.
+7. Perché può indebolire strutture e componenti.
+8. Permette di scegliere materiali adatti alle condizioni operative.
+
+## Quesiti a scelta multipla
+
+1. B  
+2. B  
+3. A  
+4. B  
+5. B  
+
+# Sintesi finale
+
+La chimica è la scienza che studia la materia e le sue trasformazioni. La materia comprende tutto ciò che possiede massa e occupa spazio: aria, acqua, carburanti, metalli, gomme e materiali compositi.
+
+Nel settore Trasporti e Logistica la chimica è fondamentale perché permette di comprendere il comportamento dei materiali, la combustione dei carburanti, i fenomeni di corrosione, la sicurezza delle sostanze trasportate e le strategie per migliorare efficienza e sostenibilità.
+
+Distinguere trasformazioni fisiche e trasformazioni chimiche è il primo passo per interpretare correttamente i fenomeni tecnici.
+
+# Parole chiave
+
+- Chimica
+- Materia
+- Massa
+- Volume
+- Composizione
+- Struttura
+- Trasformazione fisica
+- Trasformazione chimica
+- Combustione
+- Corrosione
+- Carburante
+- Materiale
+- Sicurezza
+- Sostenibilità
+
+## Prosegui il percorso
+
+- [Lezione 1.2](lezione_1_2.qmd)
+- [Glossario](../glossario.qmd)
+- [Esercizi Modulo 1](../esercizi/esercizi_modulo1.qmd)
+- [Bibliografia](../bibliografia.qmd)

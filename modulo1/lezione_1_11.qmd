@@ -1,0 +1,453 @@
+---
+title: "Lezione 1.11 — Comunicazione scientifica e documentazione tecnica"
+subtitle: "Modulo 1 — Chimica in movimento"
+author: "Chimica per i Trasporti e la Logistica"
+lang: it
+
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+  pdf:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+
+crossref:
+  fig-title: "Figura"
+---
+
+# Comunicazione scientifica e documentazione tecnica
+
+*Nel settore Trasporti e Logistica la conoscenza scientifica diventa realmente utile solo quando può essere comunicata in modo chiaro, verificabile e documentato. Un dato chimico, una misura, una prova su un materiale o un controllo su un carburante devono essere registrati con precisione, perché da una comunicazione tecnica corretta dipendono sicurezza, manutenzione, conformità e decisioni operative.*
+
+## Obiettivi di apprendimento
+
+Al termine della lezione sarai in grado di:
+
+- comprendere il ruolo della comunicazione scientifica nel lavoro tecnico;
+- distinguere dati, osservazioni, interpretazioni e conclusioni;
+- descrivere le caratteristiche di una relazione tecnica efficace;
+- costruire tabelle e grafici semplici per comunicare dati chimici;
+- usare correttamente unità di misura e lessico tecnico;
+- collegare la documentazione scientifica alla sicurezza nei trasporti e nella logistica.
+
+# Perché comunicare la scienza
+
+La chimica permette di osservare, misurare e interpretare la materia.
+
+Tuttavia un dato non comunicato correttamente perde valore.
+
+Nel settore tecnico un'informazione deve essere:
+
+- chiara;
+- verificabile;
+- completa;
+- confrontabile;
+- utile per prendere decisioni.
+
+Dire:
+
+> Il campione è molto caldo.
+
+non è una comunicazione tecnica sufficiente.
+
+Dire:
+
+> Temperatura del campione: 65 °C, misurata con termometro digitale dopo 10 minuti di esercizio.
+
+è invece una comunicazione verificabile.
+
+::: {.callout-note title="Idea guida"}
+
+Una comunicazione scientifica efficace separa sempre ciò che è stato misurato da ciò che viene interpretato.
+
+:::
+
+# Dato, osservazione, interpretazione e conclusione
+
+Nel linguaggio tecnico è fondamentale distinguere livelli diversi di informazione.
+
+## Osservazione
+
+È ciò che si rileva direttamente.
+
+Esempio:
+
+- presenza di polvere rossastra su una superficie metallica;
+- aumento della temperatura di un campione;
+- consumo di carburante superiore al valore abituale.
+
+## Dato
+
+È un'osservazione espressa in forma misurabile.
+
+Esempio:
+
+- temperatura: 65 °C;
+- consumo medio: 1150 kg/h;
+- perdita di massa dell'anodo: 250 g.
+
+## Interpretazione
+
+È la spiegazione proposta sulla base dei dati.
+
+Esempio:
+
+- l'aumento dei consumi potrebbe dipendere dal biofouling;
+- la perdita di massa dell'anodo indica attività di protezione catodica;
+- l'impurità rilevata può compromettere la qualità del carburante.
+
+## Conclusione
+
+È il risultato ragionato dell'analisi.
+
+Deve essere proporzionata ai dati disponibili.
+
+# Il report tecnico
+
+Un report tecnico è un documento che registra in modo ordinato:
+
+- obiettivo del controllo;
+- materiali e strumenti;
+- procedura;
+- dati raccolti;
+- analisi;
+- conclusione;
+- eventuale decisione operativa.
+
+## Funzione del report
+
+Un report può servire a:
+
+- programmare manutenzioni;
+- autorizzare un carico;
+- segnalare una non conformità;
+- confrontare materiali;
+- valutare un carburante;
+- documentare una prova di laboratorio.
+
+# Struttura di una relazione tecnica
+
+Una relazione tecnica efficace dovrebbe contenere sezioni chiare.
+
+## Titolo
+
+Indica l'argomento della prova o del controllo.
+
+## Obiettivo
+
+Spiega perché viene eseguita l'indagine.
+
+## Materiali e strumenti
+
+Elenca ciò che è stato usato.
+
+## Procedura
+
+Descrive le fasi operative in modo ordinato.
+
+## Dati
+
+Riporta le misure raccolte.
+
+## Analisi
+
+Interpreta i dati.
+
+## Conclusione
+
+Riassume il risultato e propone eventuali azioni.
+
+# Tabelle scientifiche
+
+Le tabelle permettono di organizzare dati in modo leggibile.
+
+Una tabella tecnica deve avere:
+
+- titolo chiaro;
+- intestazioni comprensibili;
+- unità di misura;
+- dati ordinati;
+- eventuali note.
+
+## Esempio
+
+| Condizione dello scafo | Consumo medio (kg/h) | Nota tecnica |
+|---|---:|---|
+| Scafo pulito | 1000 | Valore di riferimento |
+| Scafo con incrostazioni | 1150 | Aumento del 15% |
+| Dopo pulizia | 1010 | Quasi ritorno al valore iniziale |
+
+Questa tabella consente di confrontare immediatamente le condizioni operative.
+
+# Grafici scientifici
+
+I grafici aiutano a visualizzare relazioni tra dati.
+
+Un grafico deve contenere:
+
+- titolo;
+- asse x;
+- asse y;
+- unità di misura;
+- legenda, se necessaria;
+- scala leggibile.
+
+## Variabile indipendente e dipendente
+
+Spesso l'asse x rappresenta la variabile indipendente.
+
+L'asse y rappresenta la variabile dipendente.
+
+Esempio:
+
+- asse x: tempo di immersione;
+- asse y: massa dell'anodo consumata.
+
+# Unità di misura
+
+Le unità di misura sono parte integrante del dato.
+
+Un numero senza unità può essere ambiguo.
+
+| Dato incompleto | Dato corretto |
+|---|---|
+| temperatura 65 | temperatura 65 °C |
+| massa 2,5 | massa 2,5 kg |
+| consumo 1150 | consumo 1150 kg/h |
+
+Nel lavoro tecnico le unità devono essere indicate sempre.
+
+# Lessico tecnico
+
+La comunicazione scientifica richiede parole precise.
+
+## Esempi
+
+| Termine generico | Termine tecnico |
+|---|---|
+| sporco sullo scafo | biofouling |
+| ruggine | corrosione/ossidazione del ferro |
+| carburante sporco | carburante con impurità |
+| gomma modificata | elastomero vulcanizzato |
+
+Usare il lessico corretto riduce ambiguità e migliora la comunicazione professionale.
+
+# Comunicazione e sicurezza
+
+Una comunicazione tecnica imprecisa può generare rischi.
+
+## Esempio 1 — Carburante
+
+Dire che un carburante "sembra buono" non basta.
+
+Serve indicare:
+
+- parametri controllati;
+- valori misurati;
+- limiti di riferimento;
+- eventuali non conformità.
+
+## Esempio 2 — Corrosione
+
+Dire che "lo scafo è rovinato" non è sufficiente.
+
+Occorre documentare:
+
+- posizione;
+- estensione;
+- profondità;
+- perdita di massa;
+- stato degli anodi sacrificali;
+- necessità di manutenzione.
+
+# Il principio In = Out
+
+La comunicazione tecnica può usare analogie logistiche per spiegare concetti chimici.
+
+Nel caso della conservazione della massa, vale il principio:
+
+**massa in ingresso = massa in uscita**
+
+In una reazione chimica gli atomi non scompaiono: si riorganizzano.
+
+Come in un manifesto di carico, ciò che entra nel sistema deve essere rintracciabile in uscita.
+
+# Caso studio — Aumento dei consumi di una nave
+
+## Situazione iniziale
+
+Durante il monitoraggio dei consumi, una nave registra valori superiori alla media.
+
+La rotta, il carico e le condizioni operative sono simili a quelle dei viaggi precedenti.
+
+## Raccolta dati
+
+| Fase di controllo | Consumo medio (kg/h) | Condizione dello scafo | Nota tecnica |
+|---|---:|---|---|
+| Viaggi precedenti | 1000 | Pulito | Valore di riferimento |
+| Viaggio attuale | 1150 | Presenza sospetta di incrostazioni | Aumento del 15% |
+| Dopo pulizia | 1010 | Pulito | Quasi ritorno al valore iniziale |
+
+## Interpretazione
+
+Il dato suggerisce che il biofouling abbia aumentato la resistenza all'avanzamento.
+
+## Conclusione prudente
+
+La pulizia dello scafo sembra ridurre il consumo, ma è opportuno continuare il monitoraggio e controllare anche rotta, carico e condizioni meteo.
+
+# Il report come strumento decisionale
+
+Un report tecnico non serve solo a registrare ciò che è stato fatto.
+
+Serve a decidere.
+
+Può orientare decisioni come:
+
+- fermare o non fermare un mezzo;
+- sostituire un componente;
+- programmare manutenzione;
+- autorizzare un carico;
+- modificare una procedura;
+- segnalare una non conformità.
+
+::: {.callout-important title="Regola operativa"}
+
+In un report tecnico separa sempre dato, interpretazione e decisione. Il dato viene prima della spiegazione.
+
+:::
+
+# Infografica
+
+![](../immagini/modulo1/l1_11_infografica_1.png){fig-width=95%}
+
+# Risorse multimediali
+
+## Podcast
+
+[Podcast della lezione](../risorse/audio/l1_11_audio_1.m4a)
+
+## Video
+
+[Video della lezione](../risorse/video/l1_11_video_1.mp4)
+
+## Presentazione
+
+[Presentazione della lezione](../risorse/presentazioni/l1_11_presentazione_1.pptx)
+
+## Scheda operativa
+
+[Scheda operativa](../risorse/schede/l1_11_scheda_operativa.docx)
+
+# Attività
+
+## Attività 1 — Dato o interpretazione?
+
+Classifica le seguenti frasi.
+
+| Frase | Dato, osservazione o interpretazione? |
+|---|---|
+| Consumo medio: 1150 kg/h | |
+| La nave consuma di più per il biofouling | |
+| Lo scafo presenta incrostazioni visibili | |
+| La temperatura del campione è 65 °C | |
+| Il materiale è sicuramente inadatto | |
+
+## Attività 2 — Correggi la comunicazione
+
+Trasforma le frasi generiche in frasi tecniche.
+
+1. Il carburante è sporco.
+2. Il pezzo è troppo caldo.
+3. Lo scafo è rovinato.
+4. Il pneumatico consuma meno.
+
+## Attività 3 — Costruisci una mini-relazione
+
+Scrivi una breve relazione tecnica su un controllo immaginario di corrosione.
+
+La relazione deve contenere:
+
+- obiettivo;
+- materiali e strumenti;
+- osservazioni;
+- dati;
+- interpretazione;
+- conclusione.
+
+# Verifica formativa
+
+## Domande a risposta breve
+
+1. Perché un dato tecnico deve essere leggibile, verificabile e confrontabile?
+2. Qual è la differenza tra osservazione e interpretazione?
+3. Perché le unità di misura sono parte integrante del dato?
+4. Quali elementi deve contenere una tabella scientifica ben costruita?
+5. Quali elementi deve contenere un grafico scientifico?
+6. Che cosa si intende per variabile indipendente?
+7. Che cosa si intende per variabile dipendente?
+8. Perché una relazione di laboratorio deve descrivere materiali, strumenti e procedimento?
+9. In che modo il principio In = Out aiuta a comprendere la conservazione della massa?
+10. Perché la comunicazione tecnica è importante nel trasporto di merci pericolose?
+
+## Quesiti a scelta multipla
+
+1. Una comunicazione scientifica è verificabile quando:
+   - A. usa parole complesse;
+   - B. permette di controllare come il dato è stato ottenuto;
+   - C. contiene solo opinioni personali;
+   - D. non riporta strumenti e condizioni.
+
+2. In una tabella tecnica, le unità di misura devono essere:
+   - A. omesse per rendere la tabella più breve;
+   - B. indicate chiaramente, preferibilmente nelle intestazioni;
+   - C. sostituite da colori;
+   - D. inserite solo nelle conclusioni.
+
+3. In un grafico, l'asse x rappresenta spesso:
+   - A. la variabile indipendente;
+   - B. sempre la massa;
+   - C. sempre la temperatura;
+   - D. il titolo del grafico.
+
+4. La frase "il campione è molto caldo" è debole perché:
+   - A. contiene una formula chimica;
+   - B. non indica un valore misurato né un'unità;
+   - C. è troppo lunga;
+   - D. usa il verbo essere.
+
+5. Una relazione di laboratorio serve principalmente a:
+   - A. raccontare impressioni personali;
+   - B. documentare in modo ordinato obiettivo, metodo, dati e conclusioni;
+   - C. sostituire gli strumenti di misura;
+   - D. evitare il confronto con altri dati.
+
+# Sintesi finale
+
+La comunicazione scientifica consente di trasformare misure e osservazioni in informazioni utili. Nel settore Trasporti e Logistica, un report tecnico ben costruito permette di documentare controlli, confrontare dati, interpretare fenomeni e prendere decisioni operative. Per essere efficace, la comunicazione deve distinguere dati, interpretazioni e conclusioni, usare unità di misura corrette e presentare le informazioni in tabelle, grafici e testi chiari.
+
+# Parole chiave
+
+- Comunicazione scientifica
+- Report tecnico
+- Dato
+- Osservazione
+- Interpretazione
+- Conclusione
+- Tabella
+- Grafico
+- Unità di misura
+- Variabile indipendente
+- Variabile dipendente
+- Conservazione della massa
+- Manifesto di carico
+
+## Prosegui il percorso
+
+- [Lezione 1.12](lezione_1_12.qmd)
+- [Glossario](../glossario.qmd)
+- [Esercizi Modulo 1](../esercizi/esercizi_modulo1.qmd)
+- [Bibliografia](../bibliografia.qmd)

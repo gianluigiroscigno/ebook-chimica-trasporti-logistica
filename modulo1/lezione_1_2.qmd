@@ -1,0 +1,484 @@
+---
+title: "Lezione 1.2 — La chimica e le sue branche"
+subtitle: "Modulo 1 — Chimica in movimento"
+author: "Chimica per i Trasporti e la Logistica"
+lang: it
+
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+  pdf:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+
+crossref:
+  fig-title: "Figura"
+---
+
+# La chimica e le sue branche
+
+*La chimica è una scienza ampia: studia la materia, la sua composizione e le trasformazioni che essa può subire. Per affrontare problemi tecnici complessi, la disciplina si articola in branche specializzate. Nel settore Trasporti e Logistica queste branche non sono compartimenti separati, ma strumenti complementari per comprendere materiali, carburanti, corrosione, sicurezza, energia e sostenibilità.*
+
+## Obiettivi di apprendimento
+
+Al termine della lezione sarai in grado di:
+
+- riconoscere le principali branche della chimica;
+- descrivere il campo di studio della chimica organica, inorganica, fisica, analitica e della biochimica;
+- collegare ciascuna branca ad applicazioni professionali nei Trasporti e nella Logistica;
+- distinguere il ruolo dell'analisi qualitativa e quantitativa;
+- comprendere che un problema tecnico reale richiede spesso più prospettive chimiche;
+- utilizzare esempi professionali per interpretare materiali, carburanti, sicurezza e ambiente.
+
+# Perché la chimica si divide in branche
+
+La materia è estremamente varia.
+
+Un carburante aeronautico, una lega metallica, una gomma vulcanizzata, una batteria, un gas di scarico, un campione di acqua marina e una resina epossidica sono tutti oggetti di studio della chimica. Tuttavia non possono essere affrontati con un unico sguardo.
+
+Per questo motivo la chimica si organizza in **branche**, cioè settori specializzati che studiano particolari tipi di sostanze, trasformazioni o metodi di indagine.
+
+::: {.callout-note title="Idea guida"}
+
+Le branche della chimica rispondono a domande diverse sulla stessa realtà: di che cosa è fatta una sostanza, come si trasforma, quanta energia scambia, come si misura, come interagisce con l'ambiente e con gli organismi viventi.
+
+:::
+
+Nel lavoro tecnico le branche collaborano. Un problema di corrosione, per esempio, riguarda la chimica inorganica, ma può richiedere anche misure analitiche, valutazioni energetiche, conoscenze sui materiali e documentazione tecnica.
+
+# I quattro pilastri operativi della materia nei trasporti
+
+Nel settore Trasporti e Logistica la materia non è un concetto astratto. È ciò di cui sono fatti mezzi, infrastrutture, carburanti e sistemi di sicurezza.
+
+Possiamo riconoscere quattro pilastri operativi.
+
+## Aria
+
+L'aria è una miscela gassosa fondamentale.
+
+Nei trasporti svolge almeno due funzioni:
+
+- agisce come **comburente** nei motori a combustione;
+- permette la portanza aerodinamica nel volo.
+
+## Carburante
+
+Il carburante è un vettore di energia chimica.
+
+La sua composizione determina:
+
+- autonomia;
+- efficienza;
+- emissioni;
+- sicurezza di stoccaggio e trasporto.
+
+## Gomma
+
+La gomma è un materiale polimerico essenziale per pneumatici e guarnizioni.
+
+Le sue proprietà influenzano:
+
+- aderenza;
+- sicurezza dinamica;
+- resistenza all'usura;
+- consumo di carburante.
+
+## Metallo
+
+I metalli e le leghe sono alla base di scafi, binari, telai, carrelli, strutture aeronautiche e infrastrutture.
+
+Il loro comportamento è legato a:
+
+- composizione;
+- resistenza meccanica;
+- corrosione;
+- protezione superficiale.
+
+# Chimica organica
+
+## Che cosa studia
+
+La **chimica organica** studia i composti del carbonio, in particolare quelli in cui il carbonio è legato all'idrogeno.
+
+Rientrano in questo ambito:
+
+- idrocarburi;
+- carburanti;
+- lubrificanti;
+- polimeri;
+- materie plastiche;
+- gomme;
+- resine epossidiche.
+
+## Perché è importante nei trasporti
+
+La chimica organica è centrale nello studio di:
+
+- benzina;
+- gasolio;
+- cherosene;
+- carburanti sostenibili per l'aviazione;
+- lubrificanti;
+- plastiche tecniche;
+- materiali compositi.
+
+### Caso tecnico — Cherosene e SAF
+
+Il cherosene Jet-A1 è una miscela di idrocarburi progettata per garantire prestazioni affidabili in condizioni operative difficili.
+
+In aviazione il carburante deve:
+
+- rimanere stabile a basse temperature;
+- liberare energia in modo controllato;
+- rispettare requisiti di sicurezza;
+- garantire autonomia.
+
+I **SAF**, carburanti sostenibili per l'aviazione, rappresentano una delle principali innovazioni per ridurre l'impatto ambientale del trasporto aereo.
+
+# Chimica inorganica
+
+## Che cosa studia
+
+La **chimica inorganica** studia metalli, minerali, sali, ossidi, acidi, basi e composti che non hanno come struttura principale il legame carbonio-idrogeno.
+
+È una branca fondamentale per comprendere i materiali strutturali.
+
+## Perché è importante nei trasporti
+
+La chimica inorganica è coinvolta nello studio di:
+
+- acciai;
+- leghe di alluminio;
+- titanio;
+- sali presenti nell'acqua di mare;
+- ossidi metallici;
+- corrosione;
+- rivestimenti protettivi.
+
+### Caso tecnico — Corrosione marina
+
+La corrosione dello scafo è un processo elettrochimico favorito dall'acqua di mare, che agisce come elettrolita.
+
+Quando il metallo perde elettroni, può formarsi ruggine o altri prodotti di ossidazione. Questo fenomeno riduce la resistenza meccanica e può compromettere la sicurezza della struttura.
+
+Per contrastarlo si utilizzano:
+
+- acciai resistenti;
+- vernici protettive;
+- protezione catodica;
+- anodi sacrificali in zinco o magnesio.
+
+## Anodi sacrificali
+
+Gli anodi sacrificali sono metalli più reattivi dello scafo.
+
+Si ossidano al posto della struttura principale, proteggendola.
+
+::: {.callout-tip title="Collegamento professionale"}
+
+Nel settore navale la chimica inorganica non è teoria astratta: è manutenzione, sicurezza strutturale e prevenzione del degrado.
+
+:::
+
+# Chimica fisica
+
+## Che cosa studia
+
+La **chimica fisica** studia le relazioni tra materia ed energia.
+
+Si occupa di:
+
+- termodinamica;
+- calore;
+- pressione;
+- temperatura;
+- velocità delle reazioni;
+- equilibrio;
+- rendimento energetico.
+
+## Perché è importante nei trasporti
+
+Questa branca è fondamentale per comprendere:
+
+- combustione nei motori;
+- rendimento dei propulsori;
+- funzionamento di batterie;
+- celle a combustibile;
+- scambi di calore;
+- consumo energetico.
+
+### Caso tecnico — Energia nei motori
+
+Quando un carburante brucia, l'energia chimica contenuta nelle sue molecole viene trasformata in energia termica e meccanica.
+
+La chimica fisica permette di ragionare su:
+
+- quanta energia viene liberata;
+- quanta energia viene effettivamente trasformata in movimento;
+- quanta viene dispersa come calore;
+- come migliorare il rendimento.
+
+# Chimica analitica
+
+## Che cosa studia
+
+La **chimica analitica** permette di riconoscere e misurare le sostanze presenti in un campione.
+
+Risponde a due domande fondamentali.
+
+### Analisi qualitativa
+
+L'analisi qualitativa risponde alla domanda:
+
+**Che cosa è presente?**
+
+Esempio: identificare la presenza di acqua o zolfo in un carburante.
+
+### Analisi quantitativa
+
+L'analisi quantitativa risponde alla domanda:
+
+**Quanto ce n'è?**
+
+Esempio: misurare la concentrazione di impurità in un lotto di carburante.
+
+## Perché è importante nei trasporti
+
+La chimica analitica viene utilizzata per:
+
+- controllare la purezza dei carburanti;
+- verificare la qualità dei lubrificanti;
+- monitorare le emissioni;
+- analizzare acque di zavorra;
+- identificare contaminanti;
+- documentare la conformità di materiali e merci.
+
+### Caso tecnico — Carburante sospetto
+
+Un tecnico riceve un campione di carburante da una cisterna.
+
+Prima dell'utilizzo deve stabilire:
+
+- se il carburante è quello dichiarato;
+- se contiene impurità;
+- se la concentrazione delle impurità supera i limiti accettabili.
+
+In questo caso la chimica analitica è indispensabile.
+
+# Biochimica
+
+## Che cosa studia
+
+La **biochimica** studia le molecole e le reazioni chimiche degli organismi viventi.
+
+Si occupa di:
+
+- biomolecole;
+- metabolismo;
+- microrganismi;
+- processi biologici;
+- degradazione biologica;
+- produzione di biocombustibili.
+
+## Perché è importante nei trasporti
+
+Nel settore Trasporti e Logistica la biochimica interviene in diversi ambiti:
+
+- biocombustibili;
+- trattamento delle acque;
+- acque di zavorra;
+- biofouling navale;
+- tutela della salute degli equipaggi;
+- impatto ambientale.
+
+### Caso tecnico — Biofouling
+
+Il **biofouling** è l'accumulo di organismi viventi su superfici sommerse, come scafi ed eliche.
+
+Può provocare:
+
+- aumento dell'attrito;
+- riduzione dell'efficienza;
+- maggiore consumo di carburante;
+- aumento dei costi di manutenzione.
+
+Per questo fenomeno servono competenze biologiche e chimiche insieme.
+
+# Le branche della chimica a confronto
+
+| Branca della chimica | Che cosa studia | Esempio nei Trasporti e nella Logistica |
+|---|---|---|
+| Chimica organica | Composti del carbonio, idrocarburi, polimeri, resine | Carburanti, lubrificanti, gomme, materiali compositi |
+| Chimica inorganica | Metalli, minerali, sali, ossidi, leghe | Acciai, corrosione, scafi, rotaie, rivestimenti |
+| Chimica fisica | Energia, calore, pressione, temperatura, equilibrio | Combustione, batterie, celle a combustibile, rendimento |
+| Chimica analitica | Identificazione e misura delle sostanze | Controllo carburanti, emissioni, acque, lubrificanti |
+| Biochimica | Reazioni degli organismi viventi | Biocombustibili, biofouling, acque di zavorra |
+
+# Un problema reale richiede più branche
+
+Un tecnico deve analizzare un aumento dei consumi di una nave dopo mesi di navigazione.
+
+Le possibili cause sono diverse.
+
+## Ipotesi 1 — Carburante contaminato
+
+Serve la chimica analitica per controllare il campione.
+
+## Ipotesi 2 — Scafo corroso
+
+Serve la chimica inorganica per comprendere ossidazione e protezione dei metalli.
+
+## Ipotesi 3 — Biofouling
+
+Serve la biochimica per interpretare la crescita di organismi sulla superficie dello scafo.
+
+## Ipotesi 4 — Rendimento energetico ridotto
+
+Serve la chimica fisica per valutare energia, calore e consumo.
+
+::: {.callout-important title="Regola operativa"}
+
+Nel settore tecnico la domanda corretta non è: "Quale branca devo studiare?", ma: "Quali branche devo combinare per interpretare il problema?"
+
+:::
+
+# Evoluzione storica essenziale
+
+La suddivisione della chimica in branche è il risultato di una lunga evoluzione.
+
+Alcune tappe sono fondamentali:
+
+- uso pratico del fuoco;
+- metallurgia antica;
+- alchimia e tecniche di laboratorio;
+- metodo sperimentale;
+- lavoro quantitativo di Lavoisier;
+- simboli chimici moderni introdotti da Berzelius;
+- sviluppo della chimica organica dopo la sintesi dell'urea di Wöhler;
+- nascita della chimica moderna come disciplina sperimentale e quantitativa.
+
+Questa storia mostra il passaggio da una conoscenza empirica della materia a una conoscenza scientifica fondata su misure, modelli e linguaggio condiviso.
+
+# Infografica
+
+![](../immagini/modulo1/l1_02_infografica_1.png)
+
+# Risorse multimediali
+
+## Podcast
+
+[L'architettura molecolare dei trasporti moderni](../risorse/audio/l1_02_audio_1.m4a)
+
+## Video
+
+[Chimica nei Trasporti](../risorse/video/l1_02_video_1.mp4)
+
+## Presentazione
+
+[Chemistry in Motion](../risorse/presentazioni/l1_02_presentazione_1.pptx)
+
+## Scheda operativa
+
+[Scheda operativa](../risorse/schede/l1_02_scheda_operativa.docx)
+
+# Attività guidata
+
+## Attività 1 — Associa la branca corretta
+
+Completa la tabella.
+
+| Situazione tecnica | Branca principale |
+|---|---|
+| Controllo della purezza di un carburante | |
+| Studio della corrosione di uno scafo | |
+| Calcolo del calore prodotto da un motore | |
+| Analisi del biofouling su un'elica | |
+| Studio di una resina epossidica per materiali compositi | |
+
+## Attività 2 — Caso professionale
+
+Un terminal logistico deve gestire una partita di carburante destinata a un aeroporto.
+
+Costruisci una breve analisi indicando:
+
+1. quale branca verifica la composizione del carburante;
+2. quale branca studia l'energia liberata dalla combustione;
+3. quale branca studia eventuali materiali polimerici impiegati nei serbatoi;
+4. perché la sicurezza richiede una collaborazione tra più branche.
+
+# Verifica formativa
+
+## Domande a risposta breve
+
+1. Perché la chimica si divide in branche?
+2. Che cosa studia la chimica organica?
+3. Qual è il ruolo della chimica inorganica nello studio della corrosione?
+4. Quale differenza esiste tra analisi qualitativa e analisi quantitativa?
+5. Perché la biochimica è utile nello studio del biofouling?
+6. Perché la chimica fisica è importante per i motori?
+
+## Quesiti a scelta multipla
+
+1. La chimica organica studia principalmente:
+   - A. metalli e minerali
+   - B. composti del carbonio
+   - C. solo organismi viventi
+   - D. unità di misura
+
+2. La corrosione degli scafi è collegata soprattutto alla:
+   - A. chimica inorganica
+   - B. biochimica alimentare
+   - C. chimica astronomica
+   - D. geografia fisica
+
+3. La misura della concentrazione di impurità in un carburante appartiene alla:
+   - A. chimica organica
+   - B. chimica analitica quantitativa
+   - C. chimica fisica teorica
+   - D. metallurgia storica
+
+4. Il calore liberato dalla combustione riguarda principalmente:
+   - A. chimica fisica
+   - B. biochimica
+   - C. mineralogia descrittiva
+   - D. tassonomia biologica
+
+5. Il biofouling è collegato a:
+   - A. organismi viventi sulle superfici immerse
+   - B. congelamento del carburante
+   - C. produzione di acciaio
+   - D. fusione del rame
+
+# Sintesi finale
+
+La chimica è una scienza unitaria, ma si articola in branche specializzate per affrontare la complessità della materia. La chimica organica studia carburanti, polimeri e resine; la chimica inorganica permette di comprendere metalli, leghe e corrosione; la chimica fisica collega materia ed energia; la chimica analitica identifica e misura le sostanze; la biochimica interpreta i processi legati agli organismi viventi.
+
+Nel settore Trasporti e Logistica queste prospettive lavorano insieme. Una nave, un aereo, un treno o un terminal logistico sono sistemi materiali complessi: per comprenderli occorre integrare composizione, trasformazioni, energia, misure, sicurezza e sostenibilità.
+
+# Parole chiave
+
+- Chimica organica
+- Chimica inorganica
+- Chimica fisica
+- Chimica analitica
+- Biochimica
+- Carburante
+- Polimero
+- Lega
+- Corrosione
+- Biofouling
+- Analisi qualitativa
+- Analisi quantitativa
+- Energia
+- SAF
+
+## Prosegui il percorso
+
+- [Lezione 1.1](lezione_1_1.qmd)
+- [Lezione 1.3](lezione_1_3.qmd)
+- [Glossario](../glossario.qmd)
+- [Esercizi Modulo 1](../esercizi/esercizi_modulo1.qmd)
+- [Bibliografia](../bibliografia.qmd)

@@ -1,0 +1,288 @@
+---
+title: "Esercizi del Modulo 1"
+subtitle: "Chimica, metodo scientifico e misure"
+lang: it
+---
+
+# Esercizi del Modulo 1
+
+Questo capitolo raccoglie attività di verifica e consolidamento relative al **Modulo 1**. Gli esercizi riprendono i concetti fondamentali sviluppati nelle dodici lezioni: il significato della chimica, le sue branche, le trasformazioni della materia, le origini storiche del pensiero chimico, il metodo scientifico, le misure, gli errori sperimentali, la conservazione della massa e la comunicazione tecnica.
+
+Gli esercizi sono organizzati in modo progressivo. Le prime attività verificano la comprensione dei concetti essenziali; quelle successive richiedono collegamenti, applicazioni e ragionamenti più vicini ai contesti dei trasporti e della logistica.
+
+## Collegamenti utili
+
+Per ripassare prima di svolgere gli esercizi puoi consultare:
+
+- [Lezione 1.1 — Che cos'è la chimica e che cosa studia](../modulo1/lezione_1_1.qmd)
+- [Lezione 1.2 — La chimica e le sue branche](../modulo1/lezione_1_2.qmd)
+- [Lezione 1.3 — Osservare le trasformazioni fisiche e chimiche](../modulo1/lezione_1_3.qmd)
+- [Lezione 1.4 — Dalle origini della chimica alle prime civiltà](../modulo1/lezione_1_4.qmd)
+- [Lezione 1.5 — I filosofi greci, l'atomo e il metodo scientifico](../modulo1/lezione_1_5.qmd)
+- [Lezione 1.6 — Dal pensiero al metodo scientifico](../modulo1/lezione_1_6.qmd)
+- [Lezione 1.7 — Il metodo sperimentale](../modulo1/lezione_1_7.qmd)
+- [Lezione 1.8 — Misurare la materia](../modulo1/lezione_1_8.qmd)
+- [Lezione 1.9 — Precisione, accuratezza ed errori di misura](../modulo1/lezione_1_9.qmd)
+- [Lezione 1.10 — Misure, errori e conservazione della massa](../modulo1/lezione_1_10.qmd)
+- [Lezione 1.11 — Comunicazione scientifica e documentazione tecnica](../modulo1/lezione_1_11.qmd)
+- [Lezione 1.12 — Sintesi operativa del Modulo 1](../modulo1/lezione_1_12.qmd)
+
+Le soluzioni sono raccolte nel file [Soluzioni del Modulo 1](soluzioni_modulo1.qmd).
+
+## Sezione A — Domande a risposta multipla
+
+Scegli una sola risposta corretta.
+
+1. La chimica studia principalmente:
+   a. solo gli organismi viventi  
+   b. la composizione, la struttura e le trasformazioni della materia  
+   c. solo i fenomeni astronomici  
+   d. solo le macchine industriali
+
+2. In un contesto di trasporti, la chimica è utile perché permette di comprendere:
+   a. solo il colore dei veicoli  
+   b. materiali, combustibili, corrosione, sicurezza e impatto ambientale  
+   c. solo la velocità dei mezzi  
+   d. solo la forma dei container
+
+3. La chimica organica si occupa prevalentemente:
+   a. dei composti del carbonio  
+   b. dei minerali metallici  
+   c. dei moti dei corpi  
+   d. delle stelle
+
+4. La chimica analitica è importante perché permette di:
+   a. misurare e riconoscere la composizione delle sostanze  
+   b. disegnare rotte navali  
+   c. calcolare il prezzo di un biglietto  
+   d. stabilire l'orario delle lezioni
+
+5. Una trasformazione fisica è un cambiamento in cui:
+   a. si formano sempre nuove sostanze  
+   b. cambia lo stato o l'aspetto della materia senza cambiare la natura delle sostanze  
+   c. scompare la materia  
+   d. si distruggono gli atomi
+
+6. La formazione di ruggine su una superficie metallica è un esempio di:
+   a. trasformazione fisica  
+   b. trasformazione chimica  
+   c. semplice variazione di forma  
+   d. misura indiretta
+
+7. Una caratteristica del metodo scientifico è:
+   a. accettare ogni spiegazione senza verifica  
+   b. partire da osservazioni e controllare le ipotesi con esperimenti  
+   c. evitare le misure  
+   d. sostituire i dati con opinioni personali
+
+8. Nel metodo sperimentale, l'ipotesi è:
+   a. una spiegazione provvisoria da verificare  
+   b. un risultato già certo  
+   c. una tabella di unità di misura  
+   d. un errore da eliminare
+
+9. La massa di un campione si misura generalmente con:
+   a. un termometro  
+   b. una bilancia  
+   c. un cronometro  
+   d. un righello
+
+10. L'unità di misura fondamentale della massa nel Sistema Internazionale è:
+    a. metro  
+    b. secondo  
+    c. chilogrammo  
+    d. litro
+
+11. L'accuratezza indica:
+    a. quanto una misura è vicina al valore considerato vero  
+    b. quante volte si ripete una misura  
+    c. il colore dello strumento  
+    d. la massa del contenitore
+
+12. La precisione indica:
+    a. la vicinanza tra misure ripetute  
+    b. la vicinanza al valore vero  
+    c. il costo dello strumento  
+    d. la composizione chimica del campione
+
+13. La legge di conservazione della massa afferma che:
+    a. durante una trasformazione chimica la massa totale si conserva, se il sistema è chiuso  
+    b. la massa scompare durante le reazioni  
+    c. i gas non hanno massa  
+    d. i liquidi non partecipano alle reazioni
+
+14. Una relazione tecnica di laboratorio deve contenere:
+    a. solo il titolo  
+    b. osservazioni, dati, procedimento, risultati e conclusioni  
+    c. solo le opinioni personali  
+    d. solo immagini senza spiegazioni
+
+15. In una scheda di sicurezza, i pittogrammi servono a:
+    a. rendere il documento più decorativo  
+    b. comunicare rapidamente i principali pericoli  
+    c. sostituire tutte le misure di prevenzione  
+    d. indicare il prezzo del prodotto
+
+## Sezione B — Vero o falso
+
+Indica se le affermazioni sono vere o false.
+
+1. La chimica riguarda anche fenomeni quotidiani come combustione, corrosione e conservazione degli alimenti.  
+2. La chimica non ha alcuna relazione con i trasporti e la logistica.  
+3. La fusione del ghiaccio è una trasformazione fisica.  
+4. La combustione di un carburante è una trasformazione chimica.  
+5. Gli antichi filosofi greci utilizzavano già il metodo sperimentale moderno nello stesso modo in cui lo usiamo oggi.  
+6. Nel metodo scientifico i dati devono essere raccolti in modo ordinato e verificabile.  
+7. Una misura senza unità di misura è completa e scientificamente corretta.  
+8. Errori sistematici ed errori casuali sono la stessa cosa.  
+9. In un sistema chiuso la massa totale prima e dopo una trasformazione chimica deve essere confrontabile.  
+10. Una buona comunicazione scientifica deve essere chiara, ordinata e controllabile.
+
+## Sezione C — Completamento
+
+Completa le frasi con i termini più adatti.
+
+1. La chimica studia la __________, la struttura, le proprietà e le trasformazioni della materia.
+2. Le trasformazioni in cui non si formano nuove sostanze sono dette trasformazioni __________.
+3. Le trasformazioni in cui si formano nuove sostanze sono dette trasformazioni __________.
+4. Nel metodo scientifico l'__________ è una spiegazione provvisoria che deve essere verificata.
+5. L'esperimento deve essere progettato in modo da controllare le __________ che possono influenzare il risultato.
+6. La massa si misura con la __________.
+7. Il chilogrammo è l'unità fondamentale della __________ nel Sistema Internazionale.
+8. La __________ indica la vicinanza tra misure ripetute.
+9. L'__________ indica la vicinanza di una misura al valore considerato vero.
+10. Una relazione tecnica deve presentare dati, osservazioni e conclusioni in modo __________.
+
+## Sezione D — Classificazione
+
+Classifica ciascun caso come trasformazione fisica o trasformazione chimica. Scrivi anche una breve motivazione.
+
+| Caso | Classificazione | Motivazione |
+|---|---|---|
+| 1. Evaporazione dell'acqua da una superficie bagnata |  |  |
+| 2. Arrugginimento di una catena metallica esposta alla pioggia |  |  |
+| 3. Taglio di una lamiera in officina |  |  |
+| 4. Combustione del gasolio in un motore |  |  |
+| 5. Scioglimento del sale in acqua |  |  |
+| 6. Cottura di un alimento |  |  |
+| 7. Compressione dell'aria in un serbatoio |  |  |
+| 8. Reazione tra un acido e un metallo con sviluppo di gas |  |  |
+
+## Sezione E — Metodo scientifico
+
+Leggi la situazione e rispondi.
+
+Durante un controllo in magazzino, alcuni bulloni metallici risultano più opachi e scuri rispetto agli altri. Sono stati conservati vicino a una zona umida, ma non tutti presentano lo stesso cambiamento.
+
+1. Formula una domanda scientifica di partenza.
+2. Formula un'ipotesi verificabile.
+3. Indica quali variabili dovrebbero essere controllate.
+4. Proponi un semplice esperimento o confronto per verificare l'ipotesi.
+5. Spiega quali dati raccoglieresti.
+
+## Sezione F — Misure e unità di misura
+
+1. Converti in grammi: 2,5 kg.  
+2. Converti in chilogrammi: 750 g.  
+3. Converti in millilitri: 1,2 L.  
+4. Converti in litri: 350 mL.  
+5. Una cassa ha massa 18,4 kg. Un secondo controllo indica 18,6 kg. Calcola la differenza tra le due misure.  
+6. Un contenitore vuoto ha massa 1,20 kg. Pieno di materiale ha massa 7,80 kg. Calcola la massa del materiale contenuto.  
+7. Un campione viene pesato tre volte: 15,2 g; 15,3 g; 15,2 g. Le misure sono tra loro abbastanza precise? Motiva la risposta.  
+8. Uno strumento non azzerato indica sempre 0,4 g in più. Che tipo di errore può produrre?
+
+## Sezione G — Accuratezza, precisione ed errori
+
+Osserva i dati relativi alla massa nominale di quattro campioni, pari a 100,0 g.
+
+| Gruppo | Misure ottenute (g) |
+|---|---|
+| A | 100,1 — 100,0 — 100,2 |
+| B | 104,8 — 104,9 — 105,0 |
+| C | 98,7 — 101,5 — 99,3 |
+| D | 100,0 — 100,0 — 100,1 |
+
+Rispondi.
+
+1. Quale gruppo ha ottenuto misure più accurate?
+2. Quale gruppo ha ottenuto misure precise ma non accurate?
+3. Quale gruppo mostra misure poco precise?
+4. In quale gruppo potrebbe essere presente un errore sistematico?
+5. Spiega perché una misura può essere precisa ma non accurata.
+
+## Sezione H — Conservazione della massa
+
+1. In un sistema chiuso si fanno reagire 12 g di sostanza A con 8 g di sostanza B. Quale massa totale di prodotti ci si aspetta?  
+2. In un esperimento aperto, dopo una reazione la massa misurata diminuisce. Indica una possibile spiegazione.  
+3. Durante una combustione si forma un gas che si disperde nell'ambiente. Perché questo può rendere difficile verificare la conservazione della massa?  
+4. Spiega perché, per verificare la conservazione della massa, è importante usare un sistema chiuso.  
+5. In laboratorio si pesano reagenti e contenitore prima e dopo una reazione. Quali attenzioni devono essere rispettate per rendere affidabile il confronto?
+
+## Sezione I — Comunicazione scientifica
+
+Rispondi in modo breve.
+
+1. Perché una relazione di laboratorio deve distinguere tra osservazioni e interpretazioni?  
+2. Qual è la differenza tra dato grezzo e risultato elaborato?  
+3. Perché è importante indicare strumenti e unità di misura?  
+4. Che cosa rende una conclusione scientificamente fondata?  
+5. Quali informazioni minime devono comparire in una scheda tecnica o in una relazione di prova?
+
+## Sezione L — Lessico essenziale
+
+Abbina ogni termine alla definizione corretta.
+
+| Termine | Definizione |
+|---|---|
+| 1. Materia | A. Spiegazione provvisoria da verificare |
+| 2. Trasformazione chimica | B. Quantità di materia di un corpo |
+| 3. Ipotesi | C. Tutto ciò che ha massa e occupa spazio |
+| 4. Massa | D. Cambiamento con formazione di nuove sostanze |
+| 5. Errore sistematico | E. Scostamento che tende a ripetersi nello stesso verso |
+| 6. Relazione tecnica | F. Documento ordinato che descrive procedimento, dati e conclusioni |
+
+## Sezione M — Applicazioni a trasporti e logistica
+
+Svolgi le attività collegando i concetti chimici a casi professionali.
+
+1. Un operatore deve scegliere il materiale per un contenitore destinato al trasporto di una sostanza corrosiva. Quali informazioni chimiche dovrebbe consultare prima della scelta?
+2. Un campione di carburante deve essere controllato prima dell'impiego. Quale branca della chimica è coinvolta soprattutto? Motiva la risposta.
+3. In un deposito alcune confezioni mostrano rigonfiamenti. Quali osservazioni iniziali registreresti prima di formulare ipotesi?
+4. Un tecnico confronta due materiali: uno è leggero ma si ossida facilmente, l'altro è più pesante ma più resistente alla corrosione. Quali criteri dovrebbe considerare in un contesto di trasporto marittimo?
+5. Una relazione di prova deve essere inviata a un responsabile logistico. Quali caratteristiche deve avere per essere utile nelle decisioni operative?
+
+## Sezione N — Domande aperte
+
+Rispondi con un testo breve ma completo.
+
+1. Spiega perché la chimica può essere considerata una scienza centrale nei trasporti e nella logistica.
+2. Descrivi la differenza tra osservare un fenomeno e interpretarlo scientificamente.
+3. Confronta trasformazioni fisiche e trasformazioni chimiche usando almeno due esempi.
+4. Spiega il passaggio dal pensiero filosofico antico al metodo scientifico moderno.
+5. Descrivi il ruolo delle misure nella costruzione di una conoscenza scientifica affidabile.
+6. Spiega la differenza tra accuratezza e precisione con un esempio.
+7. Illustra il significato della conservazione della massa e il motivo per cui il sistema chiuso è importante.
+8. Descrivi le caratteristiche di una comunicazione scientifica efficace.
+
+## Sezione O — Compito di realtà
+
+### Controllo di qualità in un deposito logistico
+
+Sei parte di un piccolo gruppo incaricato di analizzare una situazione anomala in un deposito logistico. Alcuni contenitori metallici destinati al trasporto di materiali tecnici presentano macchie superficiali, variazioni di massa registrate nei controlli e documentazione incompleta.
+
+Il gruppo deve preparare una breve relazione tecnica per il responsabile del deposito.
+
+La relazione deve contenere:
+
+1. descrizione ordinata della situazione osservata;
+2. distinzione tra osservazioni, dati e ipotesi;
+3. classificazione dei possibili fenomeni come trasformazioni fisiche o chimiche;
+4. proposta di misure da effettuare;
+5. indicazione degli strumenti necessari;
+6. spiegazione dei possibili errori di misura;
+7. riferimento al principio di conservazione della massa, quando applicabile;
+8. conclusione operativa con almeno due raccomandazioni.
+
+### Criteri di qualità attesi
+
+Il lavoro deve essere chiaro, ordinato e coerente con il linguaggio scientifico. Le conclusioni devono derivare dai dati e non da impressioni personali. È importante usare correttamente i termini tecnici e collegare le osservazioni al contesto dei trasporti e della logistica.

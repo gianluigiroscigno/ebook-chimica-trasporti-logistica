@@ -1,0 +1,154 @@
+---
+title: "Soluzioni del Modulo 1"
+subtitle: "Chimica, metodo scientifico e misure"
+lang: it
+---
+
+# Soluzioni del Modulo 1
+
+Questo file contiene le soluzioni degli esercizi di fine modulo. Le risposte sono ordinate secondo la stessa struttura del file [Esercizi del Modulo 1](esercizi_modulo1.qmd).
+
+## Sezione A — Domande a risposta multipla
+
+1. b  
+2. b  
+3. a  
+4. a  
+5. b  
+6. b  
+7. b  
+8. a  
+9. b  
+10. c  
+11. a  
+12. a  
+13. a  
+14. b  
+15. b
+
+## Sezione B — Vero o falso
+
+1. Vero.  
+2. Falso. La chimica è collegata a materiali, carburanti, corrosione, sicurezza e ambiente.  
+3. Vero.  
+4. Vero.  
+5. Falso. Il metodo sperimentale moderno si sviluppa storicamente in modo più strutturato.  
+6. Vero.  
+7. Falso. Una misura deve sempre riportare l'unità.  
+8. Falso. Gli errori sistematici tendono a ripetersi nello stesso verso; quelli casuali variano in modo non prevedibile.  
+9. Vero.  
+10. Vero.
+
+## Sezione C — Completamento
+
+1. composizione  
+2. fisiche  
+3. chimiche  
+4. ipotesi  
+5. variabili  
+6. bilancia  
+7. massa  
+8. precisione  
+9. accuratezza  
+10. ordinato
+
+## Sezione D — Classificazione
+
+| Caso | Classificazione | Motivazione |
+|---|---|---|
+| 1. Evaporazione dell'acqua | Trasformazione fisica | Cambia lo stato fisico, ma la sostanza resta acqua. |
+| 2. Arrugginimento di una catena | Trasformazione chimica | Si formano nuove sostanze, come ossidi di ferro. |
+| 3. Taglio di una lamiera | Trasformazione fisica | Cambia la forma, non la natura del materiale. |
+| 4. Combustione del gasolio | Trasformazione chimica | I reagenti si trasformano in nuove sostanze. |
+| 5. Scioglimento del sale in acqua | Trasformazione fisica | Il sale si disperde nella soluzione senza formare necessariamente nuove sostanze. |
+| 6. Cottura di un alimento | Trasformazione chimica | Avvengono reazioni che modificano la composizione. |
+| 7. Compressione dell'aria | Trasformazione fisica | Cambiano pressione e volume, non la composizione dell'aria. |
+| 8. Acido e metallo con sviluppo di gas | Trasformazione chimica | La formazione di gas indica la produzione di nuove sostanze. |
+
+## Sezione E — Metodo scientifico
+
+1. Esempio: perché alcuni bulloni sono diventati più opachi e scuri?  
+2. Esempio: l'umidità ha favorito una trasformazione chimica superficiale del metallo.  
+3. Variabili da controllare: tipo di metallo, tempo di esposizione, umidità, temperatura, posizione nel magazzino, presenza di imballaggio, contatto con altre sostanze.  
+4. Si possono confrontare bulloni identici conservati in ambiente asciutto e in ambiente umido per lo stesso tempo, osservando eventuali variazioni superficiali e di massa.  
+5. Dati utili: massa iniziale e finale, fotografie, livello di umidità, tempo di esposizione, descrizione delle superfici, eventuale presenza di residui.
+
+## Sezione F — Misure e unità di misura
+
+1. 2,5 kg = 2500 g.  
+2. 750 g = 0,750 kg.  
+3. 1,2 L = 1200 mL.  
+4. 350 mL = 0,350 L.  
+5. Differenza: 18,6 kg − 18,4 kg = 0,2 kg.  
+6. Massa del materiale: 7,80 kg − 1,20 kg = 6,60 kg.  
+7. Sì, le misure sono abbastanza precise perché sono molto vicine tra loro.  
+8. Può produrre un errore sistematico, perché lo scostamento tende a ripetersi nello stesso verso.
+
+## Sezione G — Accuratezza, precisione ed errori
+
+1. Il gruppo D è il più accurato, perché le misure sono molto vicine al valore nominale di 100,0 g.  
+2. Il gruppo B è preciso ma non accurato: le misure sono vicine tra loro, ma lontane dal valore nominale.  
+3. Il gruppo C mostra misure poco precise, perché i valori sono dispersi.  
+4. Nel gruppo B potrebbe esserci un errore sistematico, ad esempio uno strumento non tarato correttamente.  
+5. Una misura può essere precisa ma non accurata quando i valori si ripetono in modo simile, ma sono tutti spostati rispetto al valore corretto.
+
+## Sezione H — Conservazione della massa
+
+1. Massa totale attesa: 12 g + 8 g = 20 g.  
+2. Una possibile spiegazione è la dispersione di un gas nell'ambiente oppure la perdita di materiale durante l'esperimento.  
+3. Se il gas si disperde, non viene pesato insieme agli altri prodotti; la massa misurata sembra diminuire, anche se la massa totale si conserva considerando tutto il sistema.  
+4. Il sistema chiuso impedisce scambi di materia con l'esterno e permette di confrontare correttamente massa iniziale e massa finale.  
+5. Bisogna usare la stessa bilancia, azzerare correttamente lo strumento, evitare perdite di materiale, pesare contenitore e contenuto in modo coerente e registrare le unità.
+
+## Sezione I — Comunicazione scientifica
+
+1. Perché le osservazioni descrivono ciò che si rileva, mentre le interpretazioni spiegano il possibile significato dei dati. Confonderle rende la relazione meno controllabile.  
+2. Il dato grezzo è la misura o osservazione registrata direttamente; il risultato elaborato deriva da calcoli, confronti o interpretazioni.  
+3. Per rendere i dati comprensibili, confrontabili e ripetibili.  
+4. Una conclusione è fondata quando deriva dai dati raccolti e risponde alla domanda iniziale senza introdurre affermazioni non verificate.  
+5. Devono comparire scopo, materiali, strumenti, procedimento, dati, osservazioni, risultati, conclusioni ed eventuali indicazioni di sicurezza.
+
+## Sezione L — Lessico essenziale
+
+1. C  
+2. D  
+3. A  
+4. B  
+5. E  
+6. F
+
+## Sezione M — Applicazioni a trasporti e logistica
+
+1. Deve consultare informazioni su compatibilità chimica, corrosività, resistenza del materiale, condizioni di temperatura, scheda di sicurezza e rischi durante il trasporto.  
+2. È coinvolta soprattutto la chimica analitica, perché serve a riconoscere e misurare la composizione del campione.  
+3. Osservazioni utili: tipo di confezione, posizione nel deposito, presenza di odori, rigonfiamenti, perdite, variazioni di colore, temperatura, data di arrivo e condizioni di conservazione.  
+4. Deve considerare massa, resistenza alla corrosione, ambiente di impiego, sicurezza, durata, manutenzione e costo complessivo.  
+5. Deve essere chiara, ordinata, completa, con dati verificabili, unità di misura, conclusioni operative e linguaggio tecnico corretto.
+
+## Sezione N — Domande aperte
+
+Le risposte possono variare. Di seguito sono indicati i nuclei concettuali attesi.
+
+1. La chimica è centrale perché aiuta a comprendere materiali, combustibili, reazioni, corrosione, sicurezza, conservazione delle merci e impatto ambientale.  
+2. Osservare significa descrivere ciò che accade; interpretare significa proporre una spiegazione basata su conoscenze, dati e ipotesi verificabili.  
+3. Le trasformazioni fisiche modificano stato, forma o aspetto senza formare nuove sostanze; quelle chimiche producono sostanze diverse. Esempi: fusione del ghiaccio e taglio di una lamiera; ruggine e combustione.  
+4. Il pensiero antico cercava spiegazioni razionali della natura, ma spesso senza verifica sperimentale sistematica. Il metodo scientifico moderno richiede osservazioni, ipotesi, esperimenti, dati e controllo.  
+5. Le misure rendono i fenomeni confrontabili e permettono di passare da descrizioni qualitative a dati verificabili.  
+6. L'accuratezza riguarda la vicinanza al valore vero; la precisione riguarda la vicinanza tra misure ripetute.  
+7. La conservazione della massa afferma che la massa totale resta costante in un sistema chiuso; il sistema chiuso evita perdite o ingressi di materia.  
+8. Una comunicazione efficace è chiara, ordinata, completa, basata sui dati, con termini corretti, unità di misura e conclusioni verificabili.
+
+## Sezione O — Compito di realtà
+
+La relazione può essere valutata con la seguente griglia.
+
+| Criterio | Livello essenziale | Livello buono | Livello avanzato |
+|---|---|---|---|
+| Descrizione della situazione | Descrive il caso in modo semplice | Descrive il caso distinguendo gli elementi principali | Descrive il caso in modo completo e ordinato |
+| Uso del metodo scientifico | Formula osservazioni e una semplice ipotesi | Distingue osservazioni, dati e ipotesi | Collega ipotesi, variabili, misure e verifica |
+| Classificazione dei fenomeni | Riconosce alcuni fenomeni fisici o chimici | Classifica correttamente i casi principali | Motiva le classificazioni con linguaggio scientifico |
+| Misure ed errori | Indica alcune misure utili | Indica strumenti, unità ed errori possibili | Propone un controllo coerente e affidabile |
+| Conservazione della massa | Richiama il principio in modo generale | Lo applica ai casi adatti | Spiega il ruolo del sistema chiuso e delle perdite di materia |
+| Comunicazione tecnica | Presenta un testo comprensibile | Presenta una relazione ordinata | Produce una relazione chiara, tecnica e utile per decisioni operative |
+
+Una conclusione adeguata dovrebbe proporre raccomandazioni operative, ad esempio: isolare i contenitori alterati, completare la documentazione, effettuare nuove misure controllate, verificare le condizioni di umidità, consultare le schede tecniche dei materiali e migliorare la tracciabilità dei controlli.

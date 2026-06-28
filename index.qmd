@@ -1,0 +1,23 @@
+---
+title: "Chimica per i Trasporti e la Logistica"
+subtitle: "Modulo 1 — Chimica in movimento"
+author: "Chimica per i Trasporti e la Logistica"
+lang: it
+---
+
+# Benvenuto
+
+*Questo ebook introduce i fondamenti della chimica per il primo biennio degli Istituti Tecnici a indirizzo Trasporti e Logistica.*
+
+## Finalità dell'ebook
+
+La chimica viene presentata come disciplina utile per interpretare fenomeni reali: materiali, carburanti, corrosione, sicurezza, misura e comunicazione tecnica.
+
+## Struttura del volume
+
+- [Introduzione](introduzione.qmd)
+- [Modulo 1 — Chimica in movimento](modulo1/index.qmd)
+- [Glossario](glossario.qmd)
+- [Bibliografia](bibliografia.qmd)
+- [Conclusioni](conclusioni.qmd)
+- [Licenza](licenza.qmd)

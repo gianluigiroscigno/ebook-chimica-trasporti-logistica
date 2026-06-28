@@ -1,0 +1,16 @@
+---
+title: "Licenza"
+lang: it
+---
+
+# Licenza
+
+Questo materiale è predisposto per finalità didattiche nell'ambito del progetto editoriale **Chimica per i Trasporti e la Logistica**.
+
+## Uso didattico
+
+Il contenuto può essere utilizzato per insegnamento, studio, esercitazione e produzione di materiali scolastici collegati al percorso di chimica per il primo biennio ITTL.
+
+## Risorse esterne
+
+Eventuali immagini, audio, video e presentazioni devono essere utilizzati nel rispetto delle rispettive licenze.

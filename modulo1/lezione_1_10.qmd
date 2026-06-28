@@ -1,0 +1,386 @@
+---
+title: "Lezione 1.10 — Chimica e sicurezza logistica"
+subtitle: "Modulo 1 — Chimica in movimento"
+author: "Chimica per i Trasporti e la Logistica"
+lang: it
+
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+  pdf:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+
+crossref:
+  fig-title: "Figura"
+---
+
+# Chimica e sicurezza logistica
+
+*Nel settore Trasporti e Logistica la chimica è uno strumento di sicurezza. Conoscere la composizione delle sostanze, la loro reattività, le trasformazioni possibili e i rischi associati permette di prevenire incidenti, proteggere persone e ambiente, scegliere materiali adeguati e gestire correttamente merci, carburanti e processi tecnici.*
+
+## Obiettivi di apprendimento
+
+Al termine della lezione sarai in grado di:
+
+- comprendere il ruolo della chimica nella sicurezza logistica;
+- riconoscere l'importanza della classificazione delle sostanze;
+- collegare reattività, infiammabilità e tossicità alla gestione dei rischi;
+- applicare il principio della conservazione della massa a semplici situazioni tecniche;
+- comprendere il rapporto tra materiali, carburanti e procedure di sicurezza;
+- interpretare esempi professionali nei settori navale, aeronautico, ferroviario e stradale.
+
+# La chimica come lente operativa
+
+La chimica non serve soltanto a descrivere la materia. Nel settore tecnico serve a prendere decisioni.
+
+Un tecnico deve sapere:
+
+- quali sostanze sono presenti;
+- quali trasformazioni possono avvenire;
+- quali rischi possono emergere;
+- quali condizioni aumentano o riducono il pericolo;
+- quali procedure adottare per lavorare in sicurezza.
+
+La sicurezza logistica nasce dalla capacità di collegare dati chimici e decisioni operative.
+
+::: {.callout-note title="Idea guida"}
+
+Una sostanza non è pericolosa solo perché ha un nome complesso. Diventa un rischio quando le sue proprietà chimiche interagiscono con condizioni operative non controllate.
+
+:::
+
+# Sostanze e rischio chimico
+
+Una sostanza può rappresentare un rischio per diversi motivi.
+
+## Infiammabilità
+
+Una sostanza infiammabile può prendere fuoco in presenza di:
+
+- combustibile;
+- comburente;
+- innesco.
+
+Nel trasporto di carburanti questo aspetto è fondamentale.
+
+## Reattività
+
+Una sostanza reattiva può trasformarsi rapidamente o reagire con altre sostanze.
+
+Esempi:
+
+- acidi con basi;
+- metalli con acqua o ossigeno;
+- sostanze ossidanti con materiali combustibili.
+
+## Tossicità
+
+Una sostanza tossica può danneggiare organismi viventi.
+
+La tossicità riguarda:
+
+- inalazione;
+- contatto;
+- ingestione;
+- contaminazione ambientale.
+
+## Corrosività
+
+Una sostanza corrosiva può danneggiare:
+
+- materiali;
+- serbatoi;
+- tubazioni;
+- tessuti biologici.
+
+# Classificazione e comunicazione del rischio
+
+La logistica delle merci pericolose richiede un linguaggio chiaro e condiviso.
+
+Le sostanze devono essere:
+
+- identificate;
+- classificate;
+- etichettate;
+- documentate;
+- trasportate secondo procedure corrette.
+
+## Perché classificare
+
+La classificazione permette di decidere:
+
+- come imballare;
+- dove stoccare;
+- quali materiali usare;
+- quali mezzi impiegare;
+- quali dispositivi di sicurezza predisporre.
+
+# Merci pericolose e responsabilità tecnica
+
+Nel trasporto di merci pericolose il tecnico non può basarsi su impressioni.
+
+Deve controllare:
+
+- scheda di sicurezza;
+- compatibilità tra sostanze;
+- condizioni di temperatura;
+- ventilazione;
+- eventuali reazioni indesiderate;
+- procedure di emergenza.
+
+# Combustione e sicurezza
+
+La combustione è una trasformazione chimica in cui un combustibile reagisce con un comburente liberando energia.
+
+Nel settore trasporti è alla base del funzionamento di molti motori, ma rappresenta anche un rischio.
+
+## Triangolo del fuoco
+
+Perché avvenga una combustione servono:
+
+1. combustibile;
+2. comburente;
+3. energia di innesco.
+
+Eliminare uno di questi fattori permette di prevenire o interrompere l'incendio.
+
+# Carburanti e vettori energetici
+
+I carburanti sono sostanze ad alto contenuto energetico.
+
+Esempi:
+
+- benzina;
+- gasolio;
+- cherosene;
+- metano;
+- propano;
+- SAF.
+
+## Cherosene Jet-A1
+
+Il cherosene aeronautico deve possedere caratteristiche compatibili con il volo:
+
+- stabilità alle basse temperature;
+- adeguata densità energetica;
+- controllo delle impurità;
+- comportamento prevedibile in condizioni operative estreme.
+
+## SAF
+
+I carburanti sostenibili per l'aviazione devono ridurre l'impatto ambientale mantenendo prestazioni compatibili con la sicurezza del volo.
+
+# Materiali e sicurezza
+
+La scelta dei materiali è una decisione chimica e tecnica.
+
+## Acciaio inossidabile
+
+L'acciaio inossidabile resiste alla corrosione grazie alla presenza di cromo, che favorisce la formazione di uno strato protettivo superficiale.
+
+## Materiali compositi
+
+I materiali compositi, come fibra di carbonio e resine epossidiche, offrono:
+
+- leggerezza;
+- resistenza;
+- prestazioni elevate.
+
+Sono fondamentali nel settore aeronautico.
+
+## Gomma e vulcanizzazione
+
+La gomma degli pneumatici deve essere elastica, resistente e stabile.
+
+La vulcanizzazione crea collegamenti tra le catene polimeriche, migliorando le proprietà del materiale.
+
+# Corrosione e protezione
+
+La corrosione è una trasformazione chimica che può compromettere la sicurezza strutturale.
+
+Nel settore marittimo l'acqua salata agisce come elettrolita e accelera i processi corrosivi.
+
+## Protezione catodica
+
+Per proteggere uno scafo si possono usare anodi sacrificali in zinco o magnesio.
+
+Questi metalli si ossidano al posto della struttura principale.
+
+# Conservazione della massa e controllo tecnico
+
+La legge di Lavoisier afferma che in un sistema chiuso la massa totale si conserva.
+
+Nel linguaggio tecnico-logistico possiamo usare l'analogia:
+
+**massa in ingresso = massa in uscita**
+
+## Applicazione logistica
+
+In una reazione chimica gli atomi non scompaiono.
+
+Si riorganizzano, proprio come i container in un piano di carico possono cambiare posizione senza modificare la massa totale trasportata.
+
+# Chimica, ambiente e sostenibilità
+
+La sicurezza non riguarda solo persone e mezzi, ma anche l'ambiente.
+
+La chimica permette di:
+
+- controllare emissioni;
+- ridurre contaminazioni;
+- progettare carburanti meno impattanti;
+- migliorare materiali e processi;
+- prevenire dispersioni accidentali.
+
+# Caso studio — Trasporto di carburante
+
+Una cisterna trasporta un carburante destinato a uso tecnico.
+
+## Controlli necessari
+
+Prima del trasporto occorre verificare:
+
+- identità della sostanza;
+- infiammabilità;
+- compatibilità del contenitore;
+- temperatura di stoccaggio;
+- presenza di impurità;
+- documentazione tecnica.
+
+## Decisione operativa
+
+Se il carburante presenta impurità oltre il limite ammesso, il carico non deve essere autorizzato senza ulteriori verifiche.
+
+# Caso studio — Corrosione in ambiente marino
+
+Una struttura metallica mostra segni di corrosione.
+
+## Osservazione
+
+Presenza di alterazioni superficiali e perdita di materiale.
+
+## Ipotesi
+
+L'ambiente salino ha accelerato il processo corrosivo.
+
+## Verifica
+
+Misurazione della perdita di massa e controllo dello stato degli anodi sacrificali.
+
+## Decisione
+
+Programmare manutenzione e sostituzione dei componenti protettivi.
+
+# Infografiche
+
+![](../immagini/modulo1/l1_10_infografica_1.png){fig-width=95%}
+
+![](../immagini/modulo1/l1_10_infografica_2.png){fig-width=95%}
+
+# Risorse multimediali
+
+## Presentazione
+
+[Presentazione della lezione](../risorse/presentazioni/l1_10_presentazione_1.pptx)
+
+## Scheda operativa
+
+[Scheda operativa](../risorse/schede/l1_10_scheda_operativa.docx)
+
+# Attività
+
+## Attività 1 — Classificare il rischio
+
+Per ciascuna situazione indica il rischio prevalente:
+
+| Situazione | Rischio prevalente |
+|---|---|
+| Carburante vicino a una fonte di calore | |
+| Serbatoio corroso | |
+| Sostanza volatile in ambiente chiuso | |
+| Miscela incompatibile tra due prodotti | |
+
+## Attività 2 — Il triangolo del fuoco
+
+Descrivi una situazione reale in cui sia possibile prevenire un incendio eliminando uno dei tre elementi del triangolo del fuoco.
+
+## Attività 3 — Piano di sicurezza
+
+Per il trasporto di un liquido infiammabile indica:
+
+1. dati da controllare;
+2. condizioni di stoccaggio;
+3. rischi principali;
+4. misure preventive;
+5. decisione operativa in caso di non conformità.
+
+# Verifica formativa
+
+## Domande a risposta breve
+
+1. Perché la chimica è importante per la sicurezza logistica?
+2. Che cosa si intende per infiammabilità?
+3. Che cosa si intende per reattività?
+4. Quali elementi formano il triangolo del fuoco?
+5. Perché la classificazione delle sostanze è fondamentale?
+6. Come funziona la protezione catodica?
+7. Perché i carburanti devono essere controllati chimicamente?
+8. Che cosa afferma la legge di conservazione della massa?
+9. Perché i materiali compositi sono importanti nei trasporti?
+10. Che relazione esiste tra chimica e sostenibilità?
+
+## Quesiti a scelta multipla
+
+1. Una sostanza infiammabile:
+   - A. non può bruciare;
+   - B. può bruciare in presenza di condizioni adatte;
+   - C. è sempre innocua;
+   - D. non richiede etichettatura.
+
+2. Il triangolo del fuoco comprende:
+   - A. massa, volume, densità;
+   - B. combustibile, comburente, innesco;
+   - C. acido, base, sale;
+   - D. anodo, catodo, elettrolita.
+
+3. Gli anodi sacrificali servono a:
+   - A. aumentare la velocità della nave;
+   - B. proteggere strutture metalliche dalla corrosione;
+   - C. rendere il carburante più energetico;
+   - D. misurare la temperatura.
+
+4. La classificazione delle merci pericolose serve a:
+   - A. scegliere procedure di trasporto sicure;
+   - B. rendere più breve il viaggio;
+   - C. eliminare la necessità di documentazione;
+   - D. sostituire le misure.
+
+# Sintesi finale
+
+La sicurezza logistica dipende dalla capacità di comprendere le proprietà chimiche delle sostanze e dei materiali. Infiammabilità, reattività, tossicità, corrosività e conservazione della massa sono concetti fondamentali per gestire carburanti, materiali, merci pericolose e processi tecnici. La chimica diventa così una lente operativa per prevenire rischi, proteggere persone e ambiente e garantire l'efficienza dei sistemi di trasporto.
+
+# Parole chiave
+
+- Sicurezza logistica
+- Rischio chimico
+- Infiammabilità
+- Reattività
+- Tossicità
+- Corrosività
+- Combustione
+- Triangolo del fuoco
+- Carburanti
+- Merci pericolose
+- Protezione catodica
+- Conservazione della massa
+
+## Prosegui il percorso
+
+- [Lezione 1.11](lezione_1_11.qmd)
+- [Glossario](../glossario.qmd)
+- [Esercizi Modulo 1](../esercizi/esercizi_modulo1.qmd)
+- [Bibliografia](../bibliografia.qmd)

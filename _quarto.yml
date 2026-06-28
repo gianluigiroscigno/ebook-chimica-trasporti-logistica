@@ -1,0 +1,76 @@
+project:
+  type: book
+  output-dir: _book
+  post-render:
+    - powershell -NoProfile -ExecutionPolicy Bypass -Command "New-Item -ItemType Directory -Force -Path '04_output_pdf','05_output_EPUB' | Out-Null; if (Test-Path '_book/Chimica-per-i-Trasporti-e-la-Logistica.pdf') { Copy-Item '_book/Chimica-per-i-Trasporti-e-la-Logistica.pdf' '../04_Output_PDF/Chimica-per-i-Trasporti-e-la-Logistica.pdf' -Force }; if (Test-Path '_book/Chimica-per-i-Trasporti-e-la-Logistica.epub') { Copy-Item '_book/Chimica-per-i-Trasporti-e-la-Logistica.epub' '05_Output_EPUB/Chimica-per-i-Trasporti-e-la-Logistica.epub' -Force }"
+
+book:
+  title: "Chimica per i Trasporti e la Logistica"
+  subtitle: "Modulo 1 — Chimica in movimento"
+  author: "Chimica per i Trasporti e la Logistica"
+  date: today
+  downloads:
+    - pdf
+    - epub
+  language: it
+  cover-image: immagini/copertina.png
+  favicon: immagini/logo.png
+  chapters:
+    - index.qmd
+    - introduzione.qmd
+    - modulo1/index.qmd
+    - modulo1/lezione_1_1.qmd
+    - modulo1/lezione_1_2.qmd
+    - modulo1/lezione_1_3.qmd
+    - modulo1/lezione_1_4.qmd
+    - modulo1/lezione_1_5.qmd
+    - modulo1/lezione_1_6.qmd
+    - modulo1/lezione_1_7.qmd
+    - modulo1/lezione_1_8.qmd
+    - modulo1/lezione_1_9.qmd
+    - modulo1/lezione_1_10.qmd
+    - modulo1/lezione_1_11.qmd
+    - modulo1/lezione_1_12.qmd
+    - glossario.qmd
+    - bibliografia.qmd
+    - conclusioni.qmd
+    - licenza.qmd
+
+bibliography: references.bib
+lang: it
+
+crossref:
+  fig-title: "Figura"
+  tbl-title: "Tabella"
+
+format:
+  html:
+    theme: cosmo
+    css: css/ebook.css
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    link-external-newwindow: true
+  pdf:
+    documentclass: scrreprt
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    colorlinks: true
+    papersize: a4
+    geometry:
+      - top=25mm
+      - bottom=25mm
+      - left=25mm
+      - right=25mm
+    output-file: "Chimica-per-i-Trasporti-e-la-Logistica.pdf"
+  epub:
+    toc: true
+    toc-depth: 3
+    cover-image: immagini/copertina.png
+    output-file: "Chimica-per-i-Trasporti-e-la-Logistica.epub"
+
+execute:
+  echo: false
+  warning: false
+  message: false

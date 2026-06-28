@@ -1,0 +1,393 @@
+---
+title: "Lezione 1.6 — Dalla filosofia all'osservazione scientifica della materia"
+subtitle: "Modulo 1 — Chimica in movimento"
+author: "Chimica per i Trasporti e la Logistica"
+lang: it
+
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+  pdf:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+
+crossref:
+  fig-title: "Figura"
+---
+
+# Dalla filosofia all'osservazione scientifica della materia
+
+*La chimica moderna nasce quando l'osservazione della materia smette di essere soltanto intuizione e diventa metodo. In questa lezione il percorso storico da Democrito a Galileo e Lavoisier diventa uno strumento operativo per il tecnico dei Trasporti e della Logistica: osservare, misurare, formulare ipotesi, controllare variabili e prendere decisioni fondate sui dati.*
+
+## Obiettivi di apprendimento
+
+Al termine della lezione sarai in grado di:
+
+- distinguere tra osservazione oggettiva e interpretazione soggettiva;
+- descrivere il passaggio dalla spiegazione filosofica al metodo sperimentale;
+- spiegare il contributo di Democrito, Galileo e Lavoisier allo sviluppo della chimica;
+- riconoscere le fasi essenziali del metodo scientifico;
+- applicare il metodo sperimentale a semplici problemi tecnici dei Trasporti e della Logistica;
+- comprendere il significato professionale di osservabilità, misurabilità e ripetibilità.
+
+# Dal pensiero filosofico al metodo scientifico
+
+Le prime spiegazioni sulla materia nacquero come tentativi di interpretare il mondo attraverso il ragionamento. Prima della chimica moderna, molti fenomeni venivano spiegati ricorrendo a modelli filosofici o a tradizioni tecniche non sempre verificabili.
+
+Questo non significa che tali idee fossero inutili. Al contrario, molte intuizioni aprirono la strada alla scienza successiva. Il problema era un altro: mancava un metodo condiviso per controllare se una spiegazione fosse corretta.
+
+La chimica diventa scienza quando l'idea viene sottoposta a verifica.
+
+::: {.callout-note title="Idea guida"}
+
+Un tecnico non deve limitarsi a dire che qualcosa "sembra" funzionare o "sembra" guasto. Deve osservare il fenomeno, raccogliere dati, formulare un'ipotesi e verificarla.
+
+:::
+
+# Democrito e l'idea di atomo
+
+Democrito ipotizzò che la materia fosse costituita da particelle piccolissime e indivisibili, chiamate **atomi**.
+
+La sua idea non era ancora una teoria scientifica moderna, perché non era sostenuta da esperimenti quantitativi. Tuttavia introduceva un concetto fondamentale: le proprietà della materia dipendono da ciò che accade a livello microscopico.
+
+## Information Design della materia
+
+Per comprendere questa idea possiamo usare un'analogia logistica.
+
+In una nave cargo non conta soltanto quali merci vengono caricate, ma anche dove vengono collocate. La disposizione dei container influenza stabilità, sicurezza e comportamento del sistema.
+
+Allo stesso modo, nella materia non conta solo "di che cosa è fatta", ma anche come sono organizzate le particelle.
+
+# Galileo e la sensata esperienza
+
+Galileo Galilei contribuì in modo decisivo alla nascita del metodo scientifico moderno.
+
+Con Galileo diventa centrale la **sensata esperienza**, cioè l'osservazione diretta dei fenomeni unita alla misura.
+
+La conoscenza non deve basarsi soltanto sull'autorità o sulla tradizione, ma su dati osservabili e controllabili.
+
+## Tre criteri fondamentali
+
+Un fenomeno scientificamente studiabile deve essere:
+
+| Criterio | Significato | Esempio tecnico |
+|---|---|---|
+| Osservabile | Deve poter essere rilevato in modo oggettivo | Presenza di corrosione su un componente |
+| Misurabile | Deve poter essere espresso con dati | Aumento del consumo del 15% |
+| Ripetibile | Deve poter essere verificato più volte | Test ripetuto nelle stesse condizioni |
+
+# L'occhio diagnostico del tecnico
+
+Nel settore Trasporti e Logistica il metodo scientifico diventa **occhio diagnostico**.
+
+L'occhio diagnostico è la capacità di distinguere:
+
+- ciò che si osserva realmente;
+- ciò che si ipotizza;
+- ciò che deve essere verificato.
+
+## Osservazione e interpretazione
+
+| Osservazione | Interpretazione |
+|---|---|
+| Presenza di polvere rossastra su un bullone | Il bullone è sicuramente inutilizzabile |
+| Consumo aumentato del 15% | Il motore è guasto |
+| Guarnizione deteriorata in ambiente caldo-umido | Il materiale è scadente |
+
+Le osservazioni sono dati di partenza. Le interpretazioni sono ipotesi da verificare.
+
+::: {.callout-warning title="Errore frequente"}
+
+Confondere un dato osservato con una conclusione può portare a decisioni tecniche sbagliate. Prima di intervenire occorre verificare l'ipotesi.
+
+:::
+
+# Il metodo scientifico come ciclo
+
+Il metodo scientifico non è una sequenza rigida da applicare una sola volta. È un ciclo che può ripetersi fino a ottenere una spiegazione affidabile.
+
+## Le fasi principali
+
+1. Osservazione del fenomeno.
+2. Raccolta dei dati.
+3. Formulazione di una domanda.
+4. Formulazione di un'ipotesi.
+5. Progettazione di un esperimento.
+6. Analisi dei risultati.
+7. Conferma, modifica o rifiuto dell'ipotesi.
+
+# Fase induttiva e fase deduttiva
+
+Il metodo scientifico può essere letto attraverso due momenti.
+
+## Fase induttiva
+
+Si parte dai fatti osservati per costruire un'ipotesi.
+
+Esempio:
+
+- una nave consuma più carburante del normale;
+- lo scafo presenta incrostazioni;
+- si ipotizza che il biofouling aumenti la resistenza all'avanzamento.
+
+## Fase deduttiva
+
+Si parte dall'ipotesi per progettare una prova.
+
+Esempio:
+
+- si ispeziona lo scafo;
+- si misura il consumo prima e dopo la pulizia;
+- si verifica se la rimozione delle incrostazioni riduce i consumi.
+
+# Variabili sperimentali
+
+Per controllare un fenomeno occorre distinguere le variabili.
+
+| Tipo di variabile | Significato | Esempio |
+|---|---|---|
+| Variabile indipendente | Fattore modificato o considerato come causa | Tipo di rivestimento antivegetativo |
+| Variabile dipendente | Effetto misurato | Crescita di incrostazioni |
+| Variabili di controllo | Fattori mantenuti costanti | Salinità, temperatura, tempo di immersione |
+
+Senza controllo delle variabili, il risultato può essere ambiguo.
+
+# Caso studio — Aumento dei consumi di una nave
+
+Una compagnia registra un aumento dei consumi di carburante pari al 15% rispetto ai valori abituali.
+
+## Osservazione
+
+La nave consuma più carburante in condizioni operative simili.
+
+## Ipotesi
+
+La causa potrebbe essere la presenza di biofouling su scafo o elica.
+
+## Esperimento
+
+Si effettua un'ispezione subacquea e si confrontano i consumi prima e dopo la pulizia.
+
+## Analisi
+
+Se i consumi tornano vicini ai valori nominali, l'ipotesi è confermata.
+
+## Decisione tecnica
+
+Programmare controlli periodici e manutenzione preventiva.
+
+# Lavoisier e il primato della bilancia
+
+Antoine Lavoisier trasformò la chimica in una scienza quantitativa.
+
+Il suo contributo principale fu l'introduzione sistematica della misura della massa attraverso la bilancia.
+
+La sua legge più nota afferma:
+
+> Nulla si crea, nulla si distrugge, tutto si trasforma.
+
+## Significato chimico
+
+In una trasformazione chimica la massa totale dei reagenti deve corrispondere alla massa totale dei prodotti, se il sistema è chiuso.
+
+## Analogia logistica
+
+In un magazzino o su una nave cargo, la massa in ingresso e quella in uscita devono essere controllate.
+
+Se il carico cambia posizione, l'organizzazione è diversa, ma la massa complessiva non scompare.
+
+# Dal qualitativo al quantitativo
+
+Il passaggio fondamentale della chimica moderna è il passaggio:
+
+- dal "che cosa succede";
+- al "quanto succede".
+
+Nel settore tecnico questo passaggio è indispensabile.
+
+Non basta osservare che:
+
+- un materiale si corrode;
+- un carburante brucia;
+- una gomma si degrada.
+
+Occorre misurare:
+
+- quanto materiale si è perso;
+- quanta energia viene prodotta;
+- quanto aumenta il consumo;
+- quali condizioni accelerano il fenomeno.
+
+# Laboratorio — Sviluppare l'occhio diagnostico
+
+## Obiettivo
+
+Distinguere osservazione, ipotesi e verifica in semplici casi tecnici.
+
+## Materiali possibili
+
+- campioni metallici;
+- frammenti di gomma;
+- materiali compositi;
+- immagini di corrosione;
+- dati simulati di consumo carburante.
+
+## Procedura
+
+1. Osserva il campione o il dato.
+2. Descrivi solo ciò che puoi rilevare.
+3. Formula una possibile ipotesi.
+4. Indica quale prova servirebbe per verificarla.
+5. Distingui le variabili coinvolte.
+
+## Esempio guidato
+
+| Fase | Esempio |
+|---|---|
+| Osservazione | Presenza di corrosione su un provino metallico |
+| Ipotesi | Il campione è stato esposto a un ambiente salino |
+| Esperimento | Confronto con campioni esposti ad acqua dolce e salata |
+| Variabile indipendente | Tipo di ambiente |
+| Variabile dipendente | Grado di corrosione |
+| Variabili di controllo | Tempo, temperatura, superficie esposta |
+
+# Inclusione e strategie di studio
+
+Per studiare questa lezione può essere utile usare una sequenza visuale:
+
+1. Osservo.
+2. Misuro.
+3. Formulo un'ipotesi.
+4. Verifico.
+5. Concludo.
+6. Se necessario, ricomincio.
+
+La distinzione più importante è:
+
+- **fatto**: dato osservabile;
+- **ipotesi**: spiegazione provvisoria;
+- **conclusione**: risultato dopo verifica.
+
+# Infografiche
+
+![](../immagini/modulo1/l1_06_infografica_1.png)
+
+![](../immagini/modulo1/l1_06_infografica_2.png)
+
+# Risorse multimediali
+
+## Podcast
+
+[Dagli atomi alla bilancia di Lavoisier](../risorse/audio/l1_06_audio_1.m4a)
+
+## Video
+
+[Chimica in Movimento](../risorse/video/l1_06_video_1.mp4)
+
+## Presentazione
+
+[The Technical Diagnostic Eye](../risorse/presentazioni/l1_06_presentazione_1.pptx)
+
+## Schede operative
+
+[Scheda operativa — Lo sviluppo dell'occhio diagnostico](../risorse/schede/l1_06_scheda_operativa_6.docx)
+
+[Report di transizione didattica](../risorse/schede/l1_06_scheda_operativa_2.docx)
+
+# Attività
+
+## Attività 1 — Osservazione o interpretazione?
+
+Classifica le frasi come osservazioni o interpretazioni.
+
+| Frase | Osservazione o interpretazione? |
+|---|---|
+| Il consumo è aumentato del 15% | |
+| Il motore è sicuramente guasto | |
+| È presente polvere rossastra sul bullone | |
+| Il materiale è di scarsa qualità | |
+
+## Attività 2 — Costruisci un'indagine
+
+Una guarnizione aeronautica mostra segni di deterioramento dopo rotte in ambiente caldo-umido.
+
+Indica:
+
+1. osservazione;
+2. ipotesi;
+3. variabile indipendente;
+4. variabile dipendente;
+5. variabili di controllo;
+6. possibile prova sperimentale.
+
+# Verifica formativa
+
+## Domande a risposta breve
+
+1. Che cosa si intende per occhio diagnostico?
+2. Qual è la differenza tra osservazione e interpretazione?
+3. Quali sono i tre criteri di rigore scientifico?
+4. Che cosa rappresenta un'ipotesi?
+5. Perché il metodo scientifico è un ciclo?
+6. Quale contributo diede Democrito alla comprensione della materia?
+7. Quale contributo diede Galileo al metodo scientifico?
+8. Perché Lavoisier è importante per la chimica moderna?
+9. Che cosa afferma la legge di conservazione della massa?
+10. Perché la misura è fondamentale nei trasporti?
+
+## Quesiti a scelta multipla
+
+1. Un'osservazione scientifica deve essere:
+   - A. soggettiva
+   - B. osservabile e controllabile
+   - C. basata su impressioni personali
+   - D. sempre definitiva
+
+2. Un'ipotesi è:
+   - A. una spiegazione provvisoria e testabile
+   - B. una legge già dimostrata
+   - C. un'opinione non verificabile
+   - D. una conclusione senza dati
+
+3. La ripetibilità indica che:
+   - A. il risultato cambia ogni volta
+   - B. la prova può essere ripetuta ottenendo risultati coerenti
+   - C. non servono misure
+   - D. l'ipotesi è sempre vera
+
+4. Lavoisier introdusse nella chimica:
+   - A. il primato della bilancia e della misura
+   - B. la teoria dei quattro elementi
+   - C. la navigazione a vapore
+   - D. la nomenclatura dei container
+
+# Sintesi finale
+
+La Lezione 1.6 mostra il passaggio dalla spiegazione filosofica della materia al metodo scientifico moderno. Democrito introduce l'idea che la materia abbia una struttura interna; Galileo afferma il valore dell'osservazione e della misura; Lavoisier trasforma la chimica in una scienza quantitativa fondata sulla bilancia.
+
+Nel settore Trasporti e Logistica questo percorso diventa competenza professionale: il tecnico deve osservare, misurare, distinguere dati e ipotesi, controllare variabili e prendere decisioni fondate su evidenze.
+
+# Parole chiave
+
+- Occhio diagnostico
+- Osservazione
+- Ipotesi
+- Esperimento
+- Variabile indipendente
+- Variabile dipendente
+- Variabile di controllo
+- Ripetibilità
+- Democrito
+- Galileo
+- Lavoisier
+- Conservazione della massa
+
+## Prosegui il percorso
+
+- [Lezione 1.7](lezione_1_7.qmd)
+- [Glossario](../glossario.qmd)
+- [Esercizi Modulo 1](../esercizi/esercizi_modulo1.qmd)
+- [Bibliografia](../bibliografia.qmd)

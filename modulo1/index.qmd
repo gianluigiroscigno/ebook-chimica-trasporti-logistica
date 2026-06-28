@@ -1,0 +1,29 @@
+---
+title: "Modulo 1 — Chimica in movimento"
+lang: it
+---
+
+# Modulo 1 — Chimica in movimento
+
+*Il primo modulo introduce la chimica come scienza della materia, delle trasformazioni e del metodo sperimentale, con continui collegamenti ai Trasporti e alla Logistica.*
+
+## Lezioni
+
+1. [Lezione 1.1 — Che cos'è la chimica e che cosa studia](lezione_1_1.qmd)
+2. [Lezione 1.2 — La chimica e le sue branche](lezione_1_2.qmd)
+3. [Lezione 1.3 — Osservare le trasformazioni fisiche e chimiche](lezione_1_3.qmd)
+4. [Lezione 1.4 — Dalle origini della chimica alle prime civiltà](lezione_1_4.qmd)
+5. [Lezione 1.5 — I filosofi greci, l'atomo e il metodo scientifico](lezione_1_5.qmd)
+6. [Lezione 1.6 — Dal pensiero al metodo scientifico](lezione_1_6.qmd)
+7. [Lezione 1.7 — Il metodo sperimentale: osservazione, ipotesi ed esperimento](lezione_1_7.qmd)
+8. [Lezione 1.8 — Misurare la materia: massa, unità di misura e conservazione](lezione_1_8.qmd)
+9. [Lezione 1.9 — Precisione, accuratezza ed errori di misura](lezione_1_9.qmd)
+10. [Lezione 1.10 — Misure, errori e conservazione della massa](lezione_1_10.qmd)
+11. [Lezione 1.11 — Comunicazione scientifica e documentazione tecnica](lezione_1_11.qmd)
+12. [Lezione 1.12 — Sintesi operativa del Modulo 1](lezione_1_12.qmd)
+
+## Risorse del modulo
+
+- [Glossario generale](../glossario.qmd)
+- [Bibliografia](../bibliografia.qmd)
+- [Esercizi del Modulo 1](../esercizi/esercizi_modulo1.qmd)

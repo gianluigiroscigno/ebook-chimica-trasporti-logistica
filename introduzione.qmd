@@ -1,0 +1,16 @@
+---
+title: "Introduzione"
+lang: it
+---
+
+# Introduzione
+
+*Studiare chimica in un Istituto Tecnico Trasporti e Logistica significa imparare a leggere la realtà tecnica con strumenti scientifici.*
+
+## Perché la chimica nei Trasporti e nella Logistica
+
+La chimica è presente in materiali metallici e compositi, carburanti, batterie, corrosione, pneumatici, merci pericolose, controlli di qualità e documentazione tecnica.
+
+## Metodo di studio
+
+Ogni lezione propone obiettivi, sviluppo disciplinare, esempi applicativi, risorse multimediali, attività e verifica formativa.

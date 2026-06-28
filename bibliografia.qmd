@@ -1,0 +1,13 @@
+---
+title: "Bibliografia"
+lang: it
+---
+
+# Bibliografia
+
+::: {#refs}
+:::
+
+## Fonti didattiche interne
+
+Il Modulo 1 integra dispense, report tecnici, schede operative, mappe, infografiche, podcast, video e presentazioni predisposti per il progetto editoriale **Chimica per i Trasporti e la Logistica**.
