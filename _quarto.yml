@@ -1,8 +1,7 @@
 project:
   type: book
   output-dir: _book
-  post-render:
-    - powershell -NoProfile -ExecutionPolicy Bypass -Command "New-Item -ItemType Directory -Force -Path '04_output_pdf','05_output_EPUB' | Out-Null; if (Test-Path '_book/Chimica-per-i-Trasporti-e-la-Logistica.pdf') { Copy-Item '_book/Chimica-per-i-Trasporti-e-la-Logistica.pdf' '../04_Output_PDF/Chimica-per-i-Trasporti-e-la-Logistica.pdf' -Force }; if (Test-Path '_book/Chimica-per-i-Trasporti-e-la-Logistica.epub') { Copy-Item '_book/Chimica-per-i-Trasporti-e-la-Logistica.epub' '05_Output_EPUB/Chimica-per-i-Trasporti-e-la-Logistica.epub' -Force }"
+  
 
 book:
   title: "Chimica per i Trasporti e la Logistica"
